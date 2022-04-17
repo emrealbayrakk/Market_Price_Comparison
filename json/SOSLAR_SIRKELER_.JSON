@@ -1,0 +1,776 @@
+{
+  "TEMEL GIDA": {
+    "SOSLAR SİRKELER": {
+      "BUHARA": {
+        "BUHARA NAR EKŞİSİ SOS 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3495"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "CALVE": {
+        "CALVE SOS BARBEKÜ 290 GR": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3522"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-barbeku-sos-290-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE ACI SOS 265 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-aci-sos-265-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE HARDAL SOS 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-hardal-sos-250-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE RANCH SOS 245 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-ranch-sos-245-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "DOĞANAY": {
+        "DOĞANAY ELMA SİRKESİ 1000 ML": {
+          "NAR GROSS": {
+            "FİYAT": "8.75",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3523"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞANAY ELMA SİRKESİ 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3513"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/doganay-elma-sirkesi-cam-500-ml"
+          }
+        },
+        "DOĞANAY LİMON SOSU 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3479"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/doganay-nare-limon-sos-500-ml"
+          }
+        },
+        "DOĞANAY ÜZÜM SİRKESİ 1000 ML": {
+          "NAR GROSS": {
+            "FİYAT": "6.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=6686"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞANAY ÜZÜM SİRKESİ 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3512"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞANAY LIMON SOSU 1000 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/doganay-limon-sosu-1000-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞANAY BUTUN NAR EKSISI 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/doganay-butun-nar-eksisi-680-gr"
+          }
+        },
+        "DOĞANAY NAR EKSISI SOSU 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/doganay-nar-eksisi-sosu-680-gr"
+          }
+        },
+        "DOĞANAY NARE LIMON SOSU 1 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/doganay-nare-limon-sosu-1-lt"
+          }
+        }
+      },
+      "DR.OETKER": {
+        "DR.OETKER HAZIR SOS 50 GR BÖĞÜRTLEN": {
+          "NAR GROSS": {
+            "FİYAT": "4.25",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3482"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DR.OETKER HAZIR SOS 50 GR KARAMEL": {
+          "NAR GROSS": {
+            "FİYAT": "4.25",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=878"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ENKİ": {
+        "ENKİ LİMON SOSU 1000 ML": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3510"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ENKİ NAR EKŞİLİ SOS 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3493"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "FERFRESH": {
+        "FERFRESH BEYAZ SİRKE 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3517"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "KAVAKLIDERE": {
+        "KAVAKLIDERE TEMİZLİK SİRKESİ 2 LT": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3514"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-temizlik-sirkesi-2000-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kavaklidere-beyaz-sirke-2000-ml"
+          }
+        },
+        "KAVAKLIDERE ACI BIBER SOSU 250 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-aci-biber-sosu-250-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE NAR EKSISI 330 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-nar-eksisi-350-gr-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE NAR EKSISI 350 ML PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-nar-eksisi-350-ml-pet"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE 500 ML BEYAZ UZUM SIRKESI CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-500-ml-beyaz-uzum-sirkesi-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE ELMA SIRKESI 500 ML PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-elma-sirkesi-500-ml-pet"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE ELMA SIRKESI 500 ML CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-elma-sirkesi-cam-500-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kavaklidere-elma-sirkesi-cam-500-ml"
+          }
+        },
+        "KAVAKLIDERE SIYAH UZUM SIRKESI 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-siyah-uzum-sirkesi-500-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE TEMIZLIK SIRKESI 750ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-temizlik-sirkesi-750ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE UZUM SIRKE 2000 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.45",
+            "LİNK": "https://www.mismarsanalmarket.com/kavaklidere-uzum-sirke-2000-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KAVAKLIDERE ELMA SIRKESI 500+500ML CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kavaklidere-elma-sirkesi-500-500ml-cam"
+          }
+        }
+      },
+      "KEMAL KÜKRER": {
+        "KEMAL KÜKRER 500+500 ML ELMA SİRK.PET": {
+          "NAR GROSS": {
+            "FİYAT": "17.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3503"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-elma-sirkesi-500-500-ml"
+          }
+        },
+        "KEMAL KÜKRER ELMA SİRKESİ 500 ML CAM": {
+          "NAR GROSS": {
+            "FİYAT": "8.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3488"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-elma-sirkesi-500-ml-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-elma-sirkesi-500-ml-cam"
+          }
+        },
+        "KEMAL KÜKRER LİMON SOSU 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3492"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-limon-sosu-1000-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-limon-sosu-1-lt"
+          }
+        },
+        "KEMAL KÜKRER LİMON SOSU 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "4.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=2593"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.50",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-limon-sosu-500-ml"
+          }
+        },
+        "KEMAL KÜKRER NAR EKŞİLİ SOS 250MLX2 CAM": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3491"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER NAR EKŞİLİ SOS 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3480"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-nar-eksisi-500-gr"
+          }
+        },
+        "KEMAL KÜKRER NAR EKŞİLİ SOS 750 ML": {
+          "NAR GROSS": {
+            "FİYAT": "16.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3505"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-nar-eksili-sos-pet-750-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER NAR EKŞİLİ SOS 750+750": {
+          "NAR GROSS": {
+            "FİYAT": "24.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3490"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER NAR EKŞİSİ 250MLX2 CAM": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3501"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER TEMİZLİK SİRKESİ 2 LT": {
+          "NAR GROSS": {
+            "FİYAT": "8.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=6689"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER ÜZÜM SİRKE 2 LT PET": {
+          "NAR GROSS": {
+            "FİYAT": "19.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=1923"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-uzum-sirkesi-2-lt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-uzum-sirkesi-2-lt"
+          }
+        },
+        "KEMAL KÜKRER ÜZÜM SİRKE 5 LT PET": {
+          "NAR GROSS": {
+            "FİYAT": "28.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=1918"
+          },
+          "MİSMAR": {
+            "FİYAT": "28.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-uzum-sirkesi-5-lt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-sirkesi-5-lt"
+          }
+        },
+        "KEMAL KÜKRER ÜZÜM SİRKE 750 ML PET": {
+          "NAR GROSS": {
+            "FİYAT": "9.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=1919"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-uzum-sirkesi-750-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kemal-kukrer-sirke-750-cc"
+          }
+        },
+        "KEMAL KÜKRER NAR EKSISI 750 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-nar-eksisi-750-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KEMAL KÜKRER ALIC SIRKESI 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "25.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kemal-kukrer-alic-sirkesi-500-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "MOR FIÇI": {
+        "MOR FIÇI NAR EKŞİSİ SOSU 675 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.75",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3504"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/morfici-nar-eksisi-sosu-675-g"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/morfici-nar-eksisi-sosu-675gr"
+          }
+        },
+        "MORFICI UZUM SIRKESI 2 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/morfici-uzum-sirkesi-2-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MORFICI UZUM SIRKESI 5 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/morfici-uzum-sirkesi-5-lt"
+          }
+        }
+      },
+      "MUSTAFA ARSLAN": {
+        "MUSTAFA ARSLAN 2 LT ÜZÜM SİRKESİ": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3484"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/m-arslan-sirke-pet-2-lt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-uzum-sirkesi-2-lt"
+          }
+        },
+        "MUSTAFA ARSLAN 5 LT ÜZÜM SİRKESİ": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=2911"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/m-arslan-sirke-pet-5-lt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-uzum-sirkesi-5-lt-pet"
+          }
+        },
+        "MUSTAFA ARSLAN 750 ML ÜZÜM SİRKESİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3487"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/m-arslan-sirke-750-ml-pet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-uzum-sirkesi-750-ml"
+          }
+        },
+        "MUSTAFA ARSLAN ELMA SIRKESI 500 ML PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.99",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-elma-sirkesi-500-ml-cam"
+          }
+        },
+        "MUSTAFA ARSLAN LIMON SOSU 1 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-limon-sosu-1-lt"
+          }
+        },
+        "MUSTAFA ARSLAN LIMON SOSU 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-limon-sosu-500-ml"
+          }
+        },
+        "MUSTAFA ARSLAN NAR EKSISI 1000 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/mustafa-arslan-nar-eksisi-1000-ml"
+          }
+        }
+      },
+      "TORKU": {
+        "TORKU SİRKE ÜZÜM 1000 ML": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3507"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU SİRKE ÜZÜM 5 LT": {
+          "NAR GROSS": {
+            "FİYAT": "27.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3508"
+          },
+          "MİSMAR": {
+            "FİYAT": "28.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-uzum-sirkesi-5-lt-pet"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU ELMA SIRKESI 1 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-elma-sirkesi-1-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU UZUM SIRKESI 2 LT PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-uzum-sirkesi-2-lt-pet"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TUKAŞ": {
+        "TUKAŞ SOS HARDAL 335 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3483"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ SOS PAPRİKA 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3481"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ SOS PAPRİKA 550 GR ACI BİBER": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3506"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ SOS RANCH 335 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3509"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAS ACI SOS 400 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-aci-sos-400-gr"
+          }
+        }
+      },
+      "ÖNCÜ": {
+        "ÖNCÜ NAR SOSU 330 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3494"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-nar-aromali-sos-330-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ÖNCÜ NAR SOSU 960 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.45",
+            "LİNK": "http://nargross.com/temel-gida/sirke-ve-soslar?product_id=3489"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-nar-eksisi-960-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ÖNCÜ NAR SOSU 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-nar-sosu-1000-gr"
+          }
+        },
+        "ÖNCÜ NAR SOSU 700 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-nor-sosu-700-gr"
+          }
+        }
+      },
+      "ADEL": {
+        "ADEL LIMON SOSU 1000 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/adel-limon-sosu-1000-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ADEL LIMON SOSU 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/adel-limon-sosu-500-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.45",
+            "LİNK": "https://www.besyol.com.tr/urun/adel-limon-sosu-500-ml"
+          }
+        }
+      },
+      "GESAŞ": {
+        "GESAS ASCI NAR EKSISI 250 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/gesas-asci-nar-eksisi-250-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GESAS ASCI ELMA SIRKESI 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/gesas-asci-elma-sirkesi-500-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TARIM KREDİ": {
+        "TARIM KREDİ NAR EKSISI 350 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tarim-kredi-koop-100-nar-eksisi-350-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "PINAR": {
+        "PINAR ACI SOS 295 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-aci-sos-295-gr"
+          }
+        },
+        "PINAR BARBEKU SOS 335 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-barbeku-sos-335-gr"
+          }
+        }
+      },
+      "ŞEKEROĞLU": {
+        "SEKEROGLU LIMON SOSU 1000 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sekeroglu-limon-sosu-1000-ml"
+          }
+        }
+      },
+      "TAMEK": {
+        "TAMEK PAPRIKA SOS 300 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-paprika-sos-300-ml"
+          }
+        }
+      },
+      "TAT": {
+        "TAT RANCH SOS 250 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tat-ranch-sos-250-ml"
+          }
+        }
+      },
+      "YALÇINKAYA": {
+        "YALCINKAYA NAR EKSI SOS 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yalcinkaya-nar-eksi-sos-1000-gr"
+          }
+        }
+      }
+    }
+  }
+}

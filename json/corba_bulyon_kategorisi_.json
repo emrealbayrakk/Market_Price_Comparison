@@ -1,0 +1,629 @@
+{
+  "TEMEL GIDA": {
+    "ÇORBA BULYON": {
+      "BAŞAK": {
+        "BAŞAK EZOGELIN CORBASI 75 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-ezogelin-corbasi-75-gr"
+          }
+        },
+        "BAŞAK ISKEMBE CORBASI 70 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-iskembe-corbasi-70-gr"
+          }
+        },
+        "BAŞAK KREMALI DOMATES CORBASI 50 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-kremali-domates-corbasi-50-gr"
+          }
+        },
+        "BAŞAK KREMALI MANTAR CORBASI 60 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-kremali-mantar-corbasi-60-gr"
+          }
+        },
+        "BAŞAK KREMALI SEBZE CORBASI 65 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-kremali-sebze-corbasi-65-gr"
+          }
+        },
+        "BAŞAK MERCİMEK CORBASI 70 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-haz-corba-cst-65gr"
+          }
+        },
+        "BAŞAK ŞEHRİYELİ TAVUK CORBASI 60 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-sehriyeli-tavuk-corbasi-60-gr"
+          }
+        },
+        "BAŞAK TARHANA CORBASI 65 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-tarhana-corbasi-65-gr"
+          }
+        },
+        "BAŞAK YAYLA CORBASI 75 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-yayla-corbasi-75-gr"
+          }
+        }
+      },
+      "ÜLKER": {
+        "BİZİM BULYON 12 Lİ ET SUYU": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1180"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-et-bulyon-9-3-bedava-644607"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.50",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-etsuyu-9-3"
+          }
+        },
+        "BİZİM BULYON 12 Lİ TAVUK SUYU": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3234"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-tavuk-bulyon-9-3-bedava-645001"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.99",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-tavuk-suyu-9-3"
+          }
+        },
+        "BİZİM BULYON 24 LÜ ET SUYU TABLET": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3241"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-m-et-bulyon-24-tb-240-gr-646506"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-et-suyu-bulyon-24-adet-240-gr"
+          }
+        },
+        "BİZİM BULYON 24 LÜ TAVUK SUYU TABLET": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3244"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-m-tavuk-bulyon-24-tb-240-gr-646505"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-tavuk-bulyon-24-adet-240-gr"
+          }
+        },
+        "BİZİM ÇORBA DOMATES 65 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1175"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-domates-corbasi-65-gr-647108"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-domates-corbasi-65-gr"
+          }
+        },
+        "BİZİM ÇORBA EZOGELIN 80 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1179"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ezogelin-corbasi-80-gr-647105"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-ezogelin-corbasi-80-gr"
+          }
+        },
+        "BİZİM ÇORBA KREMALI MANTAR 65 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1176"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-kre-mantar-corbasi-65-gr-647207"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mantar-corbasi-65-gr"
+          }
+        },
+        "BİZİM ÇORBA KREMALI TAVUK 62 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=2218"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-kre-tavuk-corbasi-62-gr-647106"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-kre-tavuk-corbasi-62-gr"
+          }
+        },
+        "BİZİM ÇORBA MERCİMEK 72 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3238"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-mercimek-corbasi-72-gr-647209"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mercimek-corbasi-72-gr"
+          }
+        },
+        "BİZİM ÇORBA TARHANA 65 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3237"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-tarhana-corbasi-65-gr-647205"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-tarhana-corbasi-65-gr"
+          }
+        },
+        "BİZİM ÇORBA YAYLA 80 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3239"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-yayla-corbasi-80-gr-647206"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-yayla-corbasi"
+          }
+        },
+        "BİZİM ÇORBA İŞKEMBE 65 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1165"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-iskembe-corbasi"
+          }
+        },
+        "BİZİM ÇORBA ŞEHRİYELİ TAVUK 58 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1173"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.20",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-seh-tavuk-corbasi-58-gr-647107"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.25",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-sehriyeli-tavuk-corbasi-58-gr"
+          }
+        },
+        "BİZİM KEMİK SUYU BULYON 12 ADET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.00",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mutfak-kemik-suyu-bulyon-12-adet"
+          }
+        }
+      },
+      "KNORR": {
+        "KNORR BULYON ET 12 LT 240 GR 24 LÜ": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3254"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knor-et-bulyon-24-lu-12-li-240-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR BULYON ET 6 LT 120 GR 12 Lİ": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3229"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knor-et-bulyon-12-li"
+          }
+        },
+        "KNORR BULYON TAVUK 12 LT 240 GR 24 LÜ": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3255"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-tavuk-bulyon-24-tab-240-gr-12-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR BULYON TAVUK 3 LT 60 GR 6 LI": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3252"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR BULYON TAVUK 6 LT 120 GR 12 Lİ": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1169"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.25",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-tavuk-bulyon-12-li-6-lt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.besyol.com.tr/urun/knor-tavuk-bulyon-sofrabasi-12-li"
+          }
+        },
+        "KNORR KÖFTE HARCI 82 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=336"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-kofte-harci-82-gr"
+          }
+        },
+        "KNORR TAVUK ÇEŞNİLİ MANGAL LEZZETİ 29 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3233"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇABUK ÇORBA ACILI DOMATES 22 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3248"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-cabuk-corba-22-gr-acili-domates"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇABUK ÇORBA ACILI EZOGELIN 22 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3245"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-cabuk-corba-22-gr-ezogelin"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇABUK ÇORBA K. TAVUK 22 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3246"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-cabuk-corba-18-gr-kremali-tav"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇABUK ÇORBA MANTAR 22 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3247"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇABUK ÇORBA ŞEHRİYELİ TAVUK 22 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3249"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇEŞNİ 40 GR KEKİKLİ SARIMSAKLI": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=3251"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ÇORBA DOMATES 69 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=334"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-69-gr-kremali-domates"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-krema-domates-cor-69gr"
+          }
+        },
+        "KNORR ÇORBA DÜĞÜN 75 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=1188"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-dugun-corbasi-72-gr"
+          }
+        },
+        "KNORR ÇORBA EZOGELIN 65 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=279"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-65-gr-ezogelin"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-ezo-gelin-corbasi-80gr"
+          }
+        },
+        "KNORR ÇORBA KREMALI MANTAR 63 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=327"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-kr-mantar-cor-63-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-kremali-mantar-corbasi-63gr"
+          }
+        },
+        "KNORR ÇORBA KREMALI SEBZE 65 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=329"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-65-gr-kremali-sebze"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knor-sebze-corbasi-65gr"
+          }
+        },
+        "KNORR ÇORBA KREMALI TAVUK 65 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=331"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-65-gr-kremali-tavuk"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-kre-tavuk-corbasi-65gr"
+          }
+        },
+        "KNORR ÇORBA MERCİMEK 76 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=333"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-76-gr-mercimek"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-mercimek-corbasi76gr"
+          }
+        },
+        "KNORR ÇORBA TARHANA 74 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=330"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-74-gr-tarhana"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-tarhana-corbasi"
+          }
+        },
+        "KNORR ÇORBA YAYLA 72 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=332"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-72-gr-yayla"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-yayla-corbasi-74gr"
+          }
+        },
+        "KNORR ÇORBA İŞKEMBE 63 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=326"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-iskembe-cor-63-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-iskembe-corbasi-63gr"
+          }
+        },
+        "KNORR ÇORBA ŞEHRİYELİ TAVUK 51 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_78&product_id=328"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-corba-51-gr-sehriyeli-tavuk"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/knorr-sehriyeli-tavuk-corbasi"
+          }
+        },
+        "KNORR TAVUK BULYON 6-LI 3 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.75",
+            "LİNK": "https://www.mismarsanalmarket.com/knor-tavuk-bulyon-6-li-3-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ANADL TAHL.TAVUK CORBASI 75 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-anadl-tahl-tavuk-corbasi-75-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ANALI KIZLI CORBASI 92 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-anali-kizli-corbasi-92-gr-yore"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR CABUK CORBA 22 GR KITIRLI DOMATES": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-cabuk-corba-22-gr-kitirli-domates"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR CABUK CORBA 22 GR MERCİMEK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-cabuk-corba-22-gr-mercimek"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ERISTELI TARHANA CORBASI 85 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-eristeli-tarhana-corbasi-85-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KNORR ET BULYON 6-LI 3 LT.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.75",
+            "LİNK": "https://www.mismarsanalmarket.com/knorr-et-bulyon-6-li-3-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "YEDİBAŞAK": {
+        "YEDIBASAK CICEK BAMYA 100 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "24.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yedibasak-cicek-bamya-100-gr"
+          }
+        }
+      },
+      "YOLTAŞ": {
+        "YOLTAS BAMYA 100 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "25.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yoltas-bamya-100-gr"
+          }
+        }
+      }
+    }
+  }
+}

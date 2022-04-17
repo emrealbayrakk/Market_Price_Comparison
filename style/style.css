@@ -1,0 +1,581 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	
+}
+body, h1, h2, h3, h4, h5, h6, p {
+font-family: 'Lexend Giga', sans-serif;
+text-align: center;
+}
+
+.green{background-color: green; color: white;}
+.black{background-color: black; color: white;}
+.shadow{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+strong{
+	color: red;
+	font-size: 30px;
+	width: 20px;
+}
+
+/* menu css*/
+
+#logo{font-family: 'Lexend Giga', sans-serif;
+float: none;
+    display: block;
+	position: absolute;
+    text-align: left;
+	margin-left: 50px;
+
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color: red;
+  font-family: 'Lexend Giga', sans-serif;
+}
+
+header li {
+  float:right;
+  
+}
+
+header li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header li a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+header li.dropdown {
+  display: inline-block;
+  margin-right: 150px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/*menu css finish*/
+
+.filtre{
+	width: 200px;
+	height: auto;
+	background-color: white;
+	position: absolute;
+	border-radius: 10px;
+	margin-left: 20px;
+	padding-top: 0px !important;
+
+	
+}
+
+.filtreTitle{
+	margin-top: 0px;
+	text-align: center;
+	background-color: black;
+	border-radius: 10px 10px 0px 0px;
+	color: white;
+}
+
+
+
+.checkBox{float: left; margin-left: 300px; position: fixed; margin-top: 100px;}
+
+#category
+{
+	display: none;
+	width: auto;
+	height: 500px;
+	background-color: white;
+	padding: 0px;
+	position:absolute;
+	margin-top: 500px;
+	margin-left: 20px;
+}
+
+#afis{
+	width: auto;
+	height: auto;
+	padding: 0px;
+	margin-top: 1300px;
+	margin-left: 20px;
+	position: absolute;
+}
+
+
+.float > * {
+	    float:right;
+}
+.listContainer{
+	width: 1000px;
+	height: auto;
+	background-color: wheat;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-color: black;
+ 	float: left;
+	margin-top: 50px;
+	
+}
+.fas{margin-right: 10px;}
+
+#card{
+	width: 250px ;
+	height: 500px;
+	padding: 0 !important;
+	float: left;
+	margin: 30px;
+	margin-left: 40px;
+}
+
+.card{
+	width: 250px ;
+	height: 500px;
+	padding: 0 !important;
+	float: left;
+	margin: 30px;
+	margin-left: 40px;
+}
+
+.cardImg{
+	margin-left: 50px !important;
+	margin-right: 50px !important;
+	width: 150px;
+	height: 150px;
+	
+}
+
+/*card içerik ayarları*/
+.productName{width: 250px;;font-size: 130%; height: auto; color: black; background-color: wheat; text-align: center; margin-left: 0px !important;}
+.productName::after {content: attr(data-content);}
+.containerName{width: 250px; height: 80px; background-color: wheat; padding-top: 5px !important; padding-left: 0px !important; margin-top: 10px; margin-bottom: 20px;}
+
+.productImage{width: 10px !important; background: transparent; size: 100%;}
+
+.productPrice{margin-top: 0px !important; }
+
+.productPrice::after {content: attr(data-content);}
+
+.productMarket{font-size: 90% !important; text-align: center; justify-content: center; padding: 0 !important; margin: 0px !important;}
+
+.productMarket::after {content: attr(data-content);}
+
+.pCheap::after {content: attr(data-content);}
+
+.underText::after {content: attr(data-content);
+  }
+
+.btnBridge{ margin-bottom: 0px; margin-top: 15px; }
+.btnBridge::after {content: attr(data-content);}
+
+.btnDetail{ margin-bottom: 0px; margin-top: 2px; }
+.btnDetail::after {content: attr(data-content);}
+
+/**/
+
+
+.w3-btn{margin-bottom: 5px;width: 220px; background-color: transparent;}
+.txtName
+{
+	color: black;
+	font-size: 70%;
+	text-align: center;
+}
+
+.productImg{
+	width: 15%;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: left;
+
+}
+/* list class start */
+.listClass ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	font-family: 'Lexend Giga', sans-serif;
+	  text-align: left;
+	  width: 200px;
+  }
+  .listClass li{float: left;}
+
+  .listClass li a 
+  {
+	display: inline-block;
+	color: white;
+	  width: 200px;
+	text-align: left;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+
+  .listClass h5
+{
+	float: center;
+	font-family: 'Lexend Giga', sans-serif;
+	color: black;
+}
+
+.listClass li a:hover {
+	background-color: red;
+  }
+/* list class finish*/
+.w3-table-all{margin: 10px;float: left;margin-left: 0px; margin-bottom: 20px; margin-top: 20px; }
+
+
+
+/*Category Menu Finish*/
+
+/* Modal css Start*/
+
+
+.mainContainer{
+	height: auto; width: 1000px; margin-left: 290px; margin-top: 100px !important;
+}
+
+/* Footer start*/
+.footer{
+	position: absolute;
+	height: 400px;
+	width:100%;
+	padding: 50px !important;
+	padding-left: 100px !important;
+}
+
+.footerPanel{
+	margin-left: 100px;
+	height: 300px;
+	width: 300px;
+	float: left;
+}
+
+.footer p{opacity: 50%; text-align: left;}
+.footer h2{font-family: 'Lexend Giga', sans-serif; text-align: left;}
+.footer li{margin-left: 20px; text-align: left !important; }
+#copyright{margin-left: 35%;}
+
+#indexFooter{margin-top: 1600px;}
+/* Footer Finish*/
+
+#bottomBanner{
+	width: 900px;
+	height: 100px;
+	margin-left: 350px;
+	padding: 0;
+}
+
+#rightBanner{
+	width: 200px;
+	height: 500px;
+	background-color: white;
+	position:absolute;
+	top: 350px;
+	right: 10px;
+	padding: 0;
+
+}
+
+.tdPrice{background-color: red; color: white; padding: 2px;}
+
+ul.breadcrumb {
+	padding: 8px 16px;
+	list-style: none;
+	background-color: #eee;
+  }
+  
+  ul.breadcrumb li {display: inline;}
+
+  ul.breadcrumb li a{color: green;}
+  
+  ul.breadcrumb li+li:before {
+	padding: 8px;
+	color: black;
+	content: "/\00a0";
+  }
+
+  /* index */
+  #indexBrosür{
+	width: 200px;
+	height: 100px;
+	background-color: black ;
+	padding: 0px;
+	margin-top: 100px;
+	margin-left: 50px;
+	position: absolute;
+
+  }
+
+  #indexBrosür2{
+	width: 200px;
+	height: 100px;
+	background-color: black ;
+	padding: 0px;
+	margin-top: 500px;
+	margin-left: 50px;
+	position: absolute;
+
+  }
+
+  #indexBrosür3{
+	width: 200px;
+	height: 100px;
+	background-color: black ;
+	padding: 0px;
+	margin-top: 900px;
+	margin-left: 50px;
+	position: absolute;
+
+  }
+  
+  .mainSlide{width:1000px;margin-top: 100px !important; position: absolute; margin-left: 400px !important; padding: 0 !important;}
+
+  
+
+  .indexContainer{
+	  position: absolute;
+	  margin-left: 400px;
+	  margin-top: 500px;
+	  width: 1000px;
+	  height: auto;
+  }
+  /**/
+
+  /* broşür html */
+  #brosurSlide{height: 1200px; margin-bottom: 100px; margin-left: 300px !important; }
+  #brosurImg{height: auto; width: 500px !important; margin-left: 250px; margin-right: 250px; margin-top: 50px;}
+  .demo{margin-top: 50px; width:200px  !important; height: 200px;}
+  .mySlidesBrosur{margin-left: 250px !important;  width:500px !important; height: 500px  !important;}
+  .broşürLogo{width: 300px; height: 100px; padding: 10px; }
+  .myModal{height: 10px; margin-top:0px !important; }
+
+ /**/
+
+ /* input */
+
+ .inputNumber{width: 50px !important;}
+
+ /**/
+
+ .sepet{width: 300px; height: 80px; background-color: green;right: 0; color: white; position: fixed; bottom: 0; margin: 10px; text-align: left; padding: 0 !important;}
+
+#list:hover{height: 500px;}
+
+.dot {
+	height: 80px;
+	width: 80px;
+	background-color: green;
+	border-radius: 50%;
+	display: inline-block;
+	padding-left: 30px !important;
+	padding-top: 30px !important;
+	opacity: 50%;
+  }
+  .dot p {visibility: hidden; float: right; width: 100px;}
+
+  .dot:hover {width: 150px; border-radius: 2%; opacity: 100%; padding-left: 20px !important;}
+  .dot:hover p{visibility: visible;}
+  
+/** Filtreleme **/
+  /* The container */
+.container {
+	display: block;
+	position: relative;
+	padding-left: 40px ;
+	margin-left: 20px !important;
+	text-align: left;
+	margin-bottom: 5px;
+	cursor: pointer;
+	font-size: 15px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	height: auto;
+	padding-top: 5px;
+	color: black;
+	
+  }
+  .container::after {
+	content: attr(data-content);
+  }
+  
+  /* Hide the browser's default checkbox */
+  .container input {
+	position: absolute;
+	opacity: 0;
+	cursor: pointer;
+	height: 0;
+	width: 0;
+  }
+  
+  /* Create a custom checkbox */
+  .checkmark {
+	position: absolute;
+	top: 0;
+	left: 5px;
+	height: 25px;
+	width: 25px;
+	background-color: #eee;
+  }
+  
+  /*checkBox hover */
+  .container:hover input ~ .checkmark {
+	background-color: green;
+  }
+  
+  /*checked*/
+  .container input:checked ~ .checkmark {
+	background-color: #2196F3;
+  }
+  
+  /* Create the checkmark/indicator (hidden when not checked) */
+  .checkmark:after {
+	content: "";
+	position: absolute;
+	display: none;
+  }
+  
+  /* Show the checkmark when checked */
+  .container input:checked ~ .checkmark:after {
+	display: block;
+  }
+  
+  /* Style the checkmark/indicator */
+  .container .checkmark:after {
+	left: 9px;
+	top: 5px;
+	width: 5px;
+	height: 10px;
+	border: solid black;
+	border-width: 0 3px 3px 0;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+  }
+  /**/
+  
+
+  /* Modal Css */
+
+  .modalSpan::after{content: attr(data-content);}
+  .modalBtn::after{content: attr(data-content);}
+  .modalTavsiye1::after{content: attr(data-content);}
+  .modalTavsiye2::after{content: attr(data-content);}
+  .modalTavsiye3::after{content: attr(data-content);}
+  .modalTh::after{content: attr(data-content);}
+  .modalTagP::after{content: attr(data-content);}
+  .tdPrice::after{content: attr(data-content);}
+  .whiteTag::after{content:  attr(data-content);}
+  	.greenTag{padding: 3px; width: auto; position: fixed; height: auto; margin-top: 10px; margin-left: 0px;} 
+  		
+ 	.modalTavsiye1{width: 300px; font-size: 15px; text-align: center; margin-top: 100px;  margin-left: 10px;}
+	.modalTavsiye2{width: 300px; font-size: 15px; text-align: center; margin-top: 2px;  margin-left: 10px;}
+	.modalTavsiye3{width: 300px; font-size: 15px; text-align: center; margin-top: 2px;  margin-left: 10px;}
+    .w3-modal h2{font-family: 'Lexend Giga', sans-serif;}
+	
+	.modalLogo{width: 100px;height: auto;}
+	.modalImg{height: 250px;width:250px;float: left; margin-top: 20px; }
+	.modalBtn{width: 300px; font-size: 15px;}
+	.modalTableTr{font-size: 20px; }
+	.modalTableTd{text-align: center; height: 10px !important; vertical-align: middle !important;}
+	.modalTdLogo{width: 50%; }
+	.modalTableTr{height: 50px;}
+	.modalTh{margin-left: 0px; text-align: center;}
+	.modalTableTd{width: 200px;}
+	
+  /**/
+
+  /* index kategori*/
+ 
+  .indexCategory1{
+	 
+	  padding-left: 0px  !important;
+	  position: absolute;
+	  width: auto;
+	  height: auto;
+	  margin-top: 500px;
+	  margin-left: 400px; }
+
+	  .indexKategori2{
+		position: absolute;
+		width: 190px;
+		height: 50px;
+		margin-top: 500px;
+		margin-left: 600px; }
+
+		.indexKategori3{
+			position: absolute;
+			width: 190px;
+			height: 50px;
+			margin-top: 500px;
+			margin-left: 800px;}
+
+			.indexKategori4{
+				position: absolute;
+				width: 190px;
+				height: 50px;
+				margin-top: 500px;
+				margin-left: 1000px;}
+
+				.indexKategori5{
+					position: absolute;
+					width: 190px;
+					height: 50px;
+					margin-top: 500px;
+					margin-left: 1200px;}
+
+	.categoryImg{width: 200px; height: auto;  margin-left: 0px !important; position: absolute; }
+
+	.categoryName{position: absolute; margin-top: 0px !important; margin-left: 25px;}
+
+	
+	.categoryCard{width: 200px; float: left;}
+
+	
+
+	.cont{width: 1000px; margin-left: 400px; position: absolute; height: auto; margin-top: 500px; padding: 20px !important;}
+	.zart{width: 200px !important; height:  150px;}
+	.zurt{width: 200px !important; padding:  0px !important; float: left; margin-left: 30px; margin-top: 20px;}
+
+	.zurt p{font-size: 90%;}
+  
+	.baslık h2{ font-family: 'Lexend Giga', sans-serif;}
+
+	.xd{width: 200px;}
+  
+	.brosurSlide{width:1000px;margin-top: 100px !important; position: absolute; margin-left: 400px !important; padding: 20px !important; height: auto !important;}
+  /**/
+
+ 

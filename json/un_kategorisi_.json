@@ -1,0 +1,515 @@
+{
+  "TEMEL GIDA": {
+    "UN ÜRÜNLERİ": {
+      "ALTINYILDIZ": {
+        "ALTINYILDIZ BUĞDAY NİŞASTASI 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1775"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.45",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-bugday-nisastasi-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yildiz-bugday-nisastasi-1000-gr"
+          }
+        },
+        "ALTINYILDIZ BUĞDAY NİŞASTASI 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3350"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-bugday-nisastasi-400-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-b-nisastasi-400-gr"
+          }
+        },
+        "ALTINYILDIZ MISIR NİŞASTASI 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=2360"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-misir-nisastasi-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-misir-nisastasi-1000-gr"
+          }
+        },
+        "ALTINYILDIZ MISIR NİŞASTASI 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1769"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-m-nisastasi-400-gr"
+          }
+        },
+        "ALTINYILDIZ İRMİK 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1776"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-irmik-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-irmik-1-kg"
+          }
+        },
+        "ALTINYILDIZ İRMİK 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.45",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=2354"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.45",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-irmik-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yildiz-irmik-500-gr"
+          }
+        },
+        "ALTINYILDIZ UN 2KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yildiz-un-2-kg"
+          }
+        },
+        "ALTINYILDIZ UN 1KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-un-1-kg"
+          }
+        },
+        "ALTINYILDIZ UN 10KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "37.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-un-10-kg"
+          }
+        },
+        "ALTINYILDIZ UN 4KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-un-4-kg"
+          }
+        }
+      },
+      "BAŞAK": {
+        "BAŞAK PİRİNÇ UNU 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1355"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-pirinc-unu-500-gr"
+          }
+        },
+        "BAŞAK MISIR UNU 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1371"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-misir-unu-400-gr"
+          }
+        },
+        "BAŞAK GALETA UNU 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/basak-galeta-unu-250-gr"
+          }
+        }
+      },
+      "BUHARA": {
+        "BAŞAK MISIR UNU 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=6690"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "BÜYÜK HEKİMOĞLU": {
+        "BÜYÜK HEKİMOĞLU SAFİR UN 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3345"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.25",
+            "LİNK": "https://www.besyol.com.tr/urun/adnan-b-hekimoglu-un-1-kg"
+          }
+        },
+        "BÜYÜK HEKİMOĞLU SAFİR UN 10 KG": {
+          "NAR GROSS": {
+            "FİYAT": "37.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1357"
+          },
+          "MİSMAR": {
+            "FİYAT": "37.95",
+            "LİNK": "https://www.mismarsanalmarket.com/b-hekimoglu-safir-un-10-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "35.95",
+            "LİNK": "https://www.besyol.com.tr/urun/adnan-b-hekimoglu-un-10-kg"
+          }
+        },
+        "BÜYÜK HEKİMOĞLU SAFİR UN 2 KG": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3342"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/adnan-b-hekimoglu-un-2-kg"
+          }
+        },
+        "BÜYÜK HEKİMOĞLU SAFİR UN 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "18.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3344"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/b-hekimoglu-safir-un-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "BİZİM": {
+        "BİZİM BUĞDAY NİŞASTASI 200 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1779"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BİZİM MISIR NİŞASTASI 150 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3357"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BİZİM PİRİNÇ UNU 175 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.25",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3358"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HEKİMOĞLU": {
+        "HEKİMOĞLU UN 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1351"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/hekimoglu-un-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/hekimog-s-un-1kg"
+          }
+        },
+        "HEKİMOĞLU UN 10 KG": {
+          "NAR GROSS": {
+            "FİYAT": "45.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=2706"
+          },
+          "MİSMAR": {
+            "FİYAT": "45.80",
+            "LİNK": "https://www.mismarsanalmarket.com/hekimoglu-un-10-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "44.95",
+            "LİNK": "https://www.besyol.com.tr/urun/hekimoglu-un-10-kg"
+          }
+        },
+        "HEKİMOĞLU UN 2 KG": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1381"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.45",
+            "LİNK": "https://www.mismarsanalmarket.com/hekimoglu-un-2-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/hekimog-s-un-2kg"
+          }
+        },
+        "HEKİMOĞLU UN 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "23.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1354"
+          },
+          "MİSMAR": {
+            "FİYAT": "23.95",
+            "LİNK": "https://www.mismarsanalmarket.com/hekimoglu-un-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "23.95",
+            "LİNK": "https://www.besyol.com.tr/urun/hekimog-s-un-5kg"
+          }
+        }
+      },
+      "KENTON": {
+        "KENTON PİRİNÇ UNU 500GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=6771"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "OVA": {
+        "OVA UN 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "23.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=6787"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SELVA": {
+        "SELVA BUĞDAY NİŞASTASI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3352"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-bugday-nisastasi-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-bugday-nisastasi-500-gr"
+          }
+        },
+        "SELVA GALETA UNU 250 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.75",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3351"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-galeta-unu-250-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-galeta-unu-250-gr"
+          }
+        },
+        "SELVA MISIR NİŞASTASI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3353"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-misir-nisastasi-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-misir-nisastasi-500gr"
+          }
+        },
+        "SELVA MISIR UNU 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3354"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-misir-un-400-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-misir-unu-400-gr"
+          }
+        },
+        "SELVA PİRİNÇ UNU 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.25",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3355"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-pirinc-unu-400-gr"
+          }
+        },
+        "SELVA UN 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1356"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-bugday-unu-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-un-1kg"
+          }
+        },
+        "SELVA UN 10 KG": {
+          "NAR GROSS": {
+            "FİYAT": "39.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=91"
+          },
+          "MİSMAR": {
+            "FİYAT": "40.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-bugday-un-10-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "40.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-un-10-kg"
+          }
+        },
+        "SELVA UN 2 KG": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3343"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-bugday-un-2-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-bugday-unu-2kg"
+          }
+        },
+        "SELVA UN 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "21.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=1347"
+          },
+          "MİSMAR": {
+            "FİYAT": "21.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-bugday-un-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-un-5-kg"
+          }
+        },
+        "SELVA İRMİK 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3348"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-irmik-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-irmik-1-kg"
+          }
+        },
+        "SELVA İRMİK 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/temel-gida/un-urunleri?product_id=3349"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-irmik-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-irmik-500gr"
+          }
+        },
+        "SELVA BAHARATLI GALETA UNU 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.75",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-baharatli-galeta-unu-250-gr"
+          }
+        },
+        "SELVA TAM BUGDAY UNU 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-tam-bugday-unu-1-kg"
+          }
+        }
+      },
+      "ÇINAR": {
+        "CINAR MISIR NISASTASI 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/cinar-misir-nisastasi-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "FİLİZ": {
+        "FILIZ IRMIK 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.49",
+            "LİNK": "https://www.besyol.com.tr/urun/filiz-irmik-500-gr"
+          }
+        }
+      },
+      "OBA": {
+        "OBA UN 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "17.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oba-un-5-kg"
+          }
+        }
+      }
+    }
+  }
+}

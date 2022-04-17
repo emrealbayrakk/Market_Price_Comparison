@@ -1,0 +1,681 @@
+{
+  "ŞARKÜTERİ": {
+    "SÜT": {
+      "AYGIN": {
+        "AYGIN 3 LT PASTORİZE İNEK SÜTÜ": {
+          "NAR GROSS": {
+            "FİYAT": "16.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3991"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "AYŞAH": {
+        "AYŞAH %1 YAĞLI SÜT 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "4.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3993"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ENKA": {
+        "ENKA SÜT 1 LT TAM YAĞLI UHT": {
+          "NAR GROSS": {
+            "FİYAT": "6.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=1596"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.25",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-tam-yagli-sut-1-lt"
+          }
+        },
+        "ENKA SÜT 1 LT YARIM YAĞLI UHT": {
+          "NAR GROSS": {
+            "FİYAT": "4.50",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=1599"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.mismarsanalmarket.com/enka-y-yagli-sut-1-lt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ENKA SÜT SADE 200 ML": {
+          "NAR GROSS": {
+            "FİYAT": "1.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=293"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ENKA SÜT ÇİLEKLİ 200 ML": {
+          "NAR GROSS": {
+            "FİYAT": "1.75",
+            "LİNK": "https://nargross.com/index.php?route=product/product&path=64_84&product_id=296"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "GÜNEY": {
+        "GÜNEY %0,5 YAĞLI SÜT 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=6772"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HALK": {
+        "HALK Y. YAĞLI SÜT 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "4.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=6843"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "NESQUIK": {
+        "NESQUIK BALLI SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3954"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/nesguik-balli-sut-180-ml"
+          }
+        },
+        "NESQUIK KAKAOLU SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3979"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/nestle-nesguik-meyveli-sut-180-ml-cesitleri"
+          }
+        },
+        "NESQUIK MUZLU SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3974"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "NESQUIK ÇİLEKLİ SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3965"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "NESQUIK KAKAOLU SÜT 180 ML 6LI": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3968"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/nestle-nesguik-kakaolu-sut-6x180-ml"
+          }
+        }
+      },
+      "PINAR": {
+        "PINAR SÜT 1 LT T. YAĞLI": {
+          "NAR GROSS": {
+            "FİYAT": "7.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=343"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-sut-tam-yagli-1-1"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.75",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-tam-yagli-sut-1lt-uht"
+          }
+        },
+        "PINAR SÜT 1 LT YARIM YAĞLI": {
+          "NAR GROSS": {
+            "FİYAT": "6.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3983"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-y-yagli-sut-1lt-uht"
+          }
+        },
+        "PINAR SÜT 200 ML SADE": {
+          "NAR GROSS": {
+            "FİYAT": "2.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=1600"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "PINAR SÜT 200 ML YARIM YAĞLI SADE": {
+          "NAR GROSS": {
+            "FİYAT": "1.90",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=4004"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-y-yagli-sut-200ml-sade"
+          }
+        },
+        "PINAR SÜT PROTEİN KAKAOLU 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3989"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-protein-sut-kakaolu-500-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-protein-sut-kakaolu-500-ml"
+          }
+        },
+        "PINAR SÜT PROTEİN VANİLYALI 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3988"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-protein-sut-vanilyali-500-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-protein-sut-vanilyali-500-ml"
+          }
+        },
+        "PINAR SÜT ÇOCUK 200 ML": {
+          "NAR GROSS": {
+            "FİYAT": "3.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3978"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "PINAR SÜT ÇOCUK BALLI 500 ML": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3959"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-sut-cocuk-balli-1-2"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cocuk-devam-sutu-balli-500-ml"
+          }
+        },
+        "PINAR PROTEIN SUT KAHVELI 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-protein-sut-kahveli-500-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "PINAR SUT COCUK 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-sut-cocuk-1-2"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cocuk-devam-sutu-500-ml"
+          }
+        },
+        "PINAR SUT LIGHT (0.1 YAG) 1/1": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-sut-light-0-1-yag-1-1"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-light-sut-1-lt"
+          }
+        },
+        "PINAR CILGIN IKILI ELMA&ARMUT 200 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cilgin-ikili-elma-armut-200-ml"
+          }
+        },
+        "PINAR CILGIN IKILI ELMA&CILEK 200 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cilgin-ikili-elma-cilek-200-ml"
+          }
+        },
+        "PINAR CILGIN IKILI SEFTALI&ANANAS 200 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cilgin-ikili-seftali-ananas-200-ml"
+          }
+        },
+        "PINAR CILGIN IKILI SEFTALI&PORTAKAL 200 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-cilgin-ikili-seftali-portakal-200-ml"
+          }
+        },
+        "PINAR KIDO CILEKLI SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-kido-cilekli-sut-180-ml"
+          }
+        },
+        "PINAR KIDO KAKAOLU SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-kido-kakaolu-sut-180-ml"
+          }
+        },
+        "PINAR KIDO MUZLU SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-kido-muzlu-sut-180-ml"
+          }
+        },
+        "PINAR SUT DENGE LAKTOZSUZ 1 LT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.25",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-sut-denge-laktozsuz-1-lt"
+          }
+        }
+      },
+      "SEK": {
+        "SEK MUZLU SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "1.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3973"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SEK SADE SÜT 180 ML": {
+          "NAR GROSS": {
+            "FİYAT": "1.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3977"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SÜTAŞ": {
+        "SÜTAŞ SADE SÜT 200 ML": {
+          "NAR GROSS": {
+            "FİYAT": "1.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3967"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-y-yagli-sut-200-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ SÜT 180 ML ÇİKOLATALI": {
+          "NAR GROSS": {
+            "FİYAT": "1.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3994"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-180-ml-cikolatali-sut"
+          },
+          "BEŞYOL": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-sekersiz-laktozsuz-cikolatali-sut-180-ml"
+          }
+        },
+        "SÜTAŞ SÜT 180 ML ÇİLEKLİ": {
+          "NAR GROSS": {
+            "FİYAT": "1.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=2364"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-cilek-aromali-sut-180-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-sekersiz-laktozsuz-cilekli-sut-180-ml"
+          }
+        },
+        "SÜTAŞ SÜT TAM YAĞLI 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=1718"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.85",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-sut-tam-yagli-1000-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.25",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-sut-tam-yagli-1-lt"
+          }
+        },
+        "SÜTAŞ SÜT YARIM YAĞLI 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "5.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3958"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.35",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-yarim-yagli-sut-1000-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.50",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-yarim-yagli-sut-1-lt"
+          }
+        },
+        "SÜTAŞ MUZLU SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.25",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-muz-aromali-sut-180-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TARIM KREDİ": {
+        "TARIM KREDİ YARIM YAĞLI SÜT 1 LT": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=4002"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TORKU": {
+        "TORKU SÜT 1 LT YARIM YAĞLI": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=2972"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-dogal-sut-1-lt-yarim-yagli"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-sut-1-lt-y-yagli"
+          }
+        },
+        "TORKU SÜT 6 X 180 ML KAKAOLU": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3972"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU SÜT 6 X 180 ML MUZLU": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3971"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU SÜT 6 X 180 ML ÇİLEKLİ": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3970"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU SÜT 6 X 200 ML SADE": {
+          "NAR GROSS": {
+            "FİYAT": "11.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3981"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU SÜT UHT 1 LT YAĞLI": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=2763"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-dogal-sut-1-lt-tam-yagli"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-sut-1-lt-tam-yagli"
+          }
+        },
+        "TORKU YARIM YAĞLI SÜT 200 ML SADE": {
+          "NAR GROSS": {
+            "FİYAT": "1.65",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=3999"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-sut-200-ml-sade-1-adet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-sut-200-ml"
+          }
+        },
+        "TORKU 180 ML CILEKLI SÜT ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-sut-180-ml-cilekli-1-adet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-sut-cilekli-180-ml"
+          }
+        },
+        "TORKU 180 ML KAKAOLU SÜT ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-sut-180-ml-kakaolu-1-adet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-180-ml-sut-kakaolu"
+          }
+        },
+        "TORKU 180 ML MUZLU SÜT ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-sut-180-ml-muzlu-1-adet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-sut-muzlu-180ml"
+          }
+        }
+      },
+      "İÇİM": {
+        "İÇİM ALPELLA 180 ML KAKAOLU SÜT": {
+          "NAR GROSS": {
+            "FİYAT": "1.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=250"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.45",
+            "LİNK": "https://www.mismarsanalmarket.com/alpella-cikolatali-sut-180-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/alpella-cikolatali-sut-180-ml"
+          }
+        },
+        "İÇİM SÜT 200 ML MUZLU": {
+          "NAR GROSS": {
+            "FİYAT": "1.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=1602"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.45",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-icimino-180-ml-sut-muzlu"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-icim-sut-muz-200ml"
+          }
+        },
+        "İÇİM SÜT 200 ML SADE": {
+          "NAR GROSS": {
+            "FİYAT": "1.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=64_84&product_id=2580"
+          },
+          "MİSMAR": {
+            "FİYAT": "1.75",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-sut-200-ml"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/icim-tam-yagli-sut-200-ml"
+          }
+        },
+        "İÇİM FIT CIKOLATALI SUT 500 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-fit-cikolatali-sut-500-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "İÇİM 180 ML SUT CIKOLATALI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.45",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-icimino-180-ml-sut-cikolatali"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-icim-cikolatali-sut-200-ml"
+          }
+        },
+        "İÇİM 180 ML SUT ÇİLEKLİ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.45",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-icimino-180-ml-sut-cilekli"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "İÇİM 1LT YARIM YAĞLI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-sut-1-lt-y-y"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.50",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-icim-y-yagli-sut-1-lt"
+          }
+        },
+        "İÇİM 1LT TAM YAĞLI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-icim-sut-1-lt-uht"
+          }
+        },
+        "İÇİM CIKOLATALI SUT 6X180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/icim-icimino-cikolatali-sut-6x180-ml"
+          }
+        },
+        "İÇİM ÇİLEKLİ SUT 6X180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/icim-icimino-cilekli-6li-sut"
+          }
+        },
+        "İÇİM MUZLU SUT 6X180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/icim-icimino-muzlu-6li-sut"
+          }
+        },
+        "İÇİM ALPELLA CIKOLATALI SUT 6X180ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/alpella-cikolatali-sut-6x180ml"
+          }
+        }
+      },
+      "DANONE": {
+        "DANONE DISNEY CILEKLI SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.50",
+            "LİNK": "https://www.besyol.com.tr/urun/danone-disney-cilekli-sut-180-ml"
+          }
+        },
+        "DANONE DISNEY MUZLU SUT 180 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "1.50",
+            "LİNK": "https://www.besyol.com.tr/urun/danone-disney-muzlu-sut-180-ml"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "ŞARKÜTERİ": {
+    "YOĞURT": {
+      "ALAKUZU": {
+        "ALAKUZU SÜZME YOĞURT 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "16.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4175"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "AYÇA": {
+        "AYÇA SÜZME YOĞURT 850 GR": {
+          "NAR GROSS": {
+            "FİYAT": "17.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4165"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ayca-suzme-yogurt-850-gr"
+          }
+        }
+      },
+      "CEBEL": {
+        "CEBEL YOĞURT 900 GR SÜZME": {
+          "NAR GROSS": {
+            "FİYAT": "17.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4146"
+          },
+          "MİSMAR": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.mismarsanalmarket.com/cebel-suzme-yogurt-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cebel-suzme-yogurt-900-gr"
+          }
+        }
+      },
+      "DANONE": {
+        "DANONE DANİNO 6X33 G CILEKLI": {
+          "NAR GROSS": {
+            "FİYAT": "3.00",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=2544"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DANONE DANİNO 6X33 G MUZLU": {
+          "NAR GROSS": {
+            "FİYAT": "3.00",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4144"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DANONE HÜPPER YOĞURT 50 GR ÇİLEKLİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.00",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4184"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "EKER": {
+        "EKER SÜZME YOĞURT 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "13.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4179"
+          },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/eker-suzme-yogurt-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.besyol.com.tr/urun/eker-suzme-yogurt-900-gr"
+          }
+        },
+        "EKER YOĞURT 150 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.35",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4191"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ELİF": {
+        "ELİF SÜZME YOĞURT 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "14.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4153"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ENKA": {
+        "ENKA KASE YOĞURT 200 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4150"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.45",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-yogurt-200-gr"
+          }
+        },
+        "ENKA YOĞURT 2000 GR YARIM YAĞLI": {
+          "NAR GROSS": {
+            "FİYAT": "11.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4169"
+          },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/enka-yarim-yagli-yogurt-2000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-y-y-yogurt-2000-gr"
+          }
+        },
+        "ENKA YOĞURT 900 GR SÜZME": {
+          "NAR GROSS": {
+            "FİYAT": "15.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=1346"
+          },
+          "MİSMAR": {
+            "FİYAT": "17.95",
+            "LİNK": "https://www.mismarsanalmarket.com/enka-yagli-suzme-yogurt-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "17.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-suzme-yogurt-900-gr"
+          }
+        },
+        "ENKA TAM YAGLI YOGURT 2000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/enka-tam-yagli-yogurt-2000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-yogurt-2000-gr-tam-yagli"
+          }
+        },
+        "ENKA KASE YOGURT 650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-kase-yogurt-650-gr"
+          }
+        }
+      },
+      "N1": {
+        "N1 TAM YAĞLI SÜZME YOĞURT 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "19.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4149"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/n1-tam-yagli-suzme-yogurt-900-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "OVA": {
+        "OVA YOĞURT 850 GR SÜZME": {
+          "NAR GROSS": {
+            "FİYAT": "16.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4145"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ova-t-yagli-suzme-yogurt-850-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OVA T.YAGLI SUZME YOGURT 4800 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "94.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ova-t-yagli-suzme-yogurt-4800-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SÜTAŞ": {
+        "SÜTAŞ YOĞURT 1000 GR KAYMAKSIZ": {
+          "NAR GROSS": {
+            "FİYAT": "8.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4196"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.50",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-kaymaksiz-yogurt-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.50",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-kaymaksiz-kase-yogurt-1000gr"
+          }
+        },
+        "SÜTAŞ YOĞURT 1750 GR KAYMAKLI": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4160"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-kaymakli-yogurt-1750-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-kaymakli-yogurt-1750-gr"
+          }
+        },
+        "SÜTAŞ YOĞURT 2000 GR KAYMAKSIZ": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4167"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-kaymaksiz-yogurt-2000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-kaymaksiz-yogurt-2000-gr"
+          }
+        },
+        "SÜTAŞ YOĞURT 500 GR KAYMAKSIZ": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=1383"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-kaymaksiz-yogurt-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-kaymaksiz-yogurt-500-gr"
+          }
+        },
+        "SÜTAŞ BUYUMIX 6X40 GR CILEKLI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.00",
+            "LİNK": "https://www.mismarsanalmarket.com/buyumix-6x40-gr-cilekli"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ CILEK MEYVELI YOGURT 115 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-cilek-meyveli-yogurt-115-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ MINIMIX CILEK 90 GR YOGURT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-minimix-cilek-90-gr-yogurt"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-minimix-cilek-100-gr"
+          }
+        },
+        "SÜTAŞ MINIMIX TROPIK MEYVE 90 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "1.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-minimix-tropik-meyve-90-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ ORMAN MEYVELI YOGURT 115 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.00",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-orman-meyveli-yogurt-115-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ TAVA YOGURT 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.50",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-tava-yogurt-1-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜTAŞ LIGHT YOGURT 650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-light-yogurt-650-gr"
+          }
+        }
+      },
+      "TORKU": {
+        "TORKU YOĞURT 200 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "2.75",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4158"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-kase-dogal-yogurt-200-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU YOĞURT 500 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4157"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-kase-dogal-yogurt-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-yogurt-500-gr-kase"
+          }
+        },
+        "TORKU YOĞURT TAM YAĞLI %3 2000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4166"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-yogurt-2000-gr-3-yagli"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-dogal-yogurt-2000-gr"
+          }
+        },
+        "TORKU YOĞURT YARIM YAĞLI 2000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "13.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4168"
+          },
+          "MİSMAR": {
+            "FİYAT": "13.45",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-y-yagli-yogurt-2000-gr-1-5"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-1-5-y-yagli-dogal-yogurt-2000-gr-yesil"
+          }
+        },
+        "TORKU ŞEKER SÜT YOĞURT 900 GR SÜZME": {
+          "NAR GROSS": {
+            "FİYAT": "18.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=2995"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-seker-suzme-yogurt-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/seker-sut-900gr-suzme-yogurt"
+          }
+        }
+      },
+      "TÜRKMENELİ": {
+        "TÜRKMENELİ SÜZME YOĞURT 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=6853"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "VİTAMİN": {
+        "VİTAMİN ÇALMA YOĞURT 1750 GR": {
+          "NAR GROSS": {
+            "FİYAT": "11.25",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4143"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.45",
+            "LİNK": "https://www.mismarsanalmarket.com/vitamin-ev-tipi-cal-yogurt-1750-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/vitaminsut-calma-yogurt-1750-gr"
+          }
+        },
+        "VİTAMİN EKS.SUZME YOGURT 800 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.90",
+            "LİNK": "https://www.mismarsanalmarket.com/vitamin-eks-suzme-yogurt-800-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.besyol.com.tr/urun/vitamin-suzme-kova-yogurt-800-gr"
+          }
+        },
+        "VİTAMİN YARIM YAGLI YOGURT KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/vitamin-y-yagli-yogurt-dok"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "VİTAMİN ÇALMA YOGURT 3 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.mismarsanalmarket.com/vitamin-yogurt-3-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/vitaminsut-calma-yogurt-3-kg"
+          }
+        }
+      },
+      "İÇİM": {
+        "İÇİM YOĞURT YARIM YAĞLI 150 GR": {
+          "NAR GROSS": {
+            "FİYAT": "1.45",
+            "LİNK": "http://nargross.com/sarkuteri/yogurt?product_id=4181"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "İÇİM DOGAL YOGURT 2000 GR Y.YAGLI EKO": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-dogal-yogurt-2000-gr-y-yagli-eko"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "İÇİM ICIMINO CILEKLI KUPLER 6X45 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.75",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-icimino-cilekli-kupler-6x45-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "İÇİM ICIMINO MUZLU KUPLER 6X45 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.75",
+            "LİNK": "https://www.mismarsanalmarket.com/icim-icimino-muzlu-kupler-6x45-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ARPACI": {
+        "IRGIN NAT.KOYUN YOGURDU 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "22.95",
+            "LİNK": "https://www.mismarsanalmarket.com/irgin-nat-koyun-yogurdu-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "KÖYÜM": {
+        "KÖYÜM TAM YAGLI SUZME YOGURT 850 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/koyum-tam-yagli-suzme-yogurt-850-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/koyum-tam-yagli-suzme-yogurt-850-gr"
+          }
+        },
+        "KÖYÜM Y.YAGLI YOGURT KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/koyum-y-yagli-yogurt-dok"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "RANA": {
+        "RANA EKSTRA YAGLI SUZME YOGURT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "25.95",
+            "LİNK": "https://www.mismarsanalmarket.com/rana-ekstra-yagli-suzme-yogurt"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TUNA": {
+        "TUNA SUZME YOGURT 900 GR KOVA": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tuna-suzme-yogurt-900-gr-kova"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tuna-tam-yagli-kova-suzme-yogurt-900-gr"
+          }
+        },
+        "TUNA TAM YAGLI TAVA YOGURT 1750 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tuna-tam-yagli-tava-yogurt-1750-gr"
+          }
+        },
+        "TUNA YARIM YAGLI KOVA YOGURT 1750 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tuna-yarim-yagli-kova-yogurt-1750-gr"
+          }
+        }
+      },
+      "ÇAYIRBAĞI": {
+        "ÇAYIRBAĞI Y.YAGLI YOGURT 1750 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cayirbagi-y-yagli-yogurt-2000-gr"
+          }
+        }
+      },
+      "KONYA DSYB": {
+        "KONYA DSYB TAM YAGLI SUZME YOGURT 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/konya-dsyb-tam-yagli-suzme-yogurt-900-gr"
+          }
+        }
+      },
+      "BEŞYOL MARKET ÜRÜNÜ": {
+        "TAM YAGLI SUZME YOGURT KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tam-yagli-suzme-yogurt-kg"
+          }
+        },
+        "Y.YAGLI SUZME YOGURT KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/y-yagli-suzme-yogurt"
+          }
+        }
+      },
+      "PINAR": {
+        "PINAR YOGURT 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-yogurt-500-gr"
+          }
+        },
+        "PINAR YOGURT 750 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.75",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-yogurt-750-gr"
+          }
+        },
+        "PINAR YOGURT Y.YAGLI 2000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "16.45",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-yogurt-2000-gr"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Peyinir Çeşitleri</title>
+
+    <!--Style Links-->
+    <link rel="stylesheet" href="/style/style.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Giga&display=swap"rel="stylesheet"/>
+    <link rel="stylesheet" href="/fontawesome/css/all.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  </head>
+
+  <body id="body" style="background-color: white">
+    <header>
+      <!-- Navbar (sit on top) -->
+      <div class="w3-top">
+        <div class="w3-bar w3-red w3-wide w3-padding w3-card-4">
+          <a href="index.html" class="w3-bar-item w3-button"
+            ><b>KK</b> Konya Kıyas</a
+          >
+          <!-- Float links to the right. Hide them on small screens -->
+          <div class="w3-right w3-hide-small">
+            <div class="w3-dropdown-hover">
+              <a class="w3-button w3-red w3-card-4">Kategoriler</a>
+              <div class="w3-dropdown-content w3-bar-block w3-border">
+                <a href="bakliyaturunleri.html" class="w3-bar-item w3-button">TEMEL GIDA </a>
+                <a href="peynirurunleri.html" class="w3-bar-item w3-button">ŞARKÜTERİ</a>
+                <a href="salcakonserveurunleri.html" class="w3-bar-item w3-button">KONSERVE</a>
+                <a href="soslarsirkeler.html" class="w3-bar-item w3-button">SOSLAR SİRKELER</a>
+                <a href="sıvıyagurunleri.html" class="w3-bar-item w3-button">SIVI YAĞLAR</a>
+                <a href="corbabulyonurunleri.html" class="w3-bar-item w3-button">ÇORBALIK ÜRÜNLER</a>
+                <a href="ketcapmayonezurunleri.html" class="w3-bar-item w3-button">KETÇAP MAYONEZ</a>
+                <a href="#" class="w3-bar-item w3-button">Temizlik Ürünleri</a>
+                <a href="#home" class="w3-bar-item w3-button">Bakım Ürünleri</a>
+                </div>
+              </div>
+
+            <a
+              href="/brosur.html"
+              style="margin-left: 10px"
+              class="w3-bar-item w3-button w3-card-4"
+              >Bu Hafta Aktüel</a
+            >
+            <a
+              href="#about"
+              style="margin-left: 10px"
+              class="w3-bar-item w3-button w3-card-4"
+              >İletişim</a
+            >
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="filtre shadow" id="filter">
+        <h4 class="filtreTitle">Filtrele</h4>
+      </div>
+
+      <div class="w3-container w3-round w3-card-4 listClass" id="category">
+        <ul>
+          <li style="padding: 5px; background-color: white; width: 200px">
+            <h5>
+              Kategoriler&nbsp;&nbsp;<i
+                class="fa fa-list-alt"
+                aria-hidden="true"
+              ></i>
+            </h5>
+          </li>
+          <li>
+            <a class="w3-round" href="meyveSebze.html"
+              >Meyve &amp; Sebze&nbsp;<i class="'fas fa-apple-alt'"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="eturunleri.html"
+              >Et &amp; Şarküteri&nbsp;<i class="fas fa-drumstick-bite"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="peynirurunleri.html"
+              >Peynir Ürünleri&nbsp;<i class="fas fa-cheese"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="bakliyat.html"
+              >Bakliyat&nbsp;<i class="fas fa-bread-slice"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="#about"
+              >Dondurulmuş Gıdalar&nbsp;<i class="fas fa-pizza-slice"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="#about"
+              >Abur Cubur&nbsp;<i class="fas fa-ice-cream"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="#about"
+              >İçecekler&nbsp;<i class="fas fa-coffee"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="#about"
+              >Temizlik Ürünleri&nbsp;<i class="fas fa-hand-sparkles"></i
+            ></a>
+          </li>
+          <br />
+          <li>
+            <a class="w3-round" href="#about"
+              >Bakım Ürünleri&nbsp;<i class="fas fa-hand-sparkles"></i
+            ></a>
+          </li>
+          <br />
+        </ul>
+      </div>
+
+      <div class="w3-container w3-round w3-card-4 listClass afis" id="afis">
+        <ul>
+          <li style="padding: 0px; background-color: white; width: 200px">
+            <h5>Haftanın Bröşürü</h5>
+          </li>
+          <div class="w3-content w3-display-container">
+            <img
+              class="mySlides"
+              src="/assets/brosür.jpg"
+              style="width: 100%"
+              height="300px"
+            />
+            <img
+              class="mySlides"
+              src="/assets/woods.jpg"
+              style="width: auto"
+              height="200px"
+            />
+            <img class="mySlides" src="/assets/brosür.jpg" style="width: 100%" />
+            <img class="mySlides" src="/img_forest.jpg" style="width: 100%" />
+
+            <button
+              style="margin-top: 50px; opacity: 50%"
+              class="w3-button w3-black w3-display-left"
+              onclick="plusDivs(-1)"
+            >
+              &#10094;
+            </button>
+            <button
+              style="margin-top: 50px; opacity: 50%"
+              class="w3-button w3-black w3-display-right"
+              onclick="plusDivs(1)"
+            >
+              &#10095;
+            </button>
+          </div>
+        </ul>
+      </div>
+
+      <!--Right Banner-->
+
+      <div
+        class="w3-panel w3-card-4 w3-border w3-border-black"
+        id="rightBanner"
+      >
+        <img
+          src="/assets/rightBanner.png"
+          alt="rightBanner"
+          style="height: 100%; width: 100%"
+        />
+      </div>
+
+      <!-- page -->
+      <div class="w3-container w3-round w3-white w3-card-4 mainContainer">
+        <ul class="breadcrumb">
+          <li><a href="index.html">Anasayfa</a></li>
+          
+          <li><a href="#">Peynir Ürünleri</a></li>
+        </ul>
+
+        <div class="cards" id="cardPage"></div>
+      </div>
+
+      <br /><br />
+
+      <!-- Modals -->
+      <div id="modals">
+        
+      </div>
+
+      <!--Pagination-->
+      <div class="w3-bar">
+        <a href="#" class="w3-button w3-round"
+          ><i class="fa fa-arrow-left" aria-hidden="true"></i
+        ></a>
+        <a href="#" class="w3-button w3-green w3-round">1</a>
+        <a href="#" class="w3-button w3-round">2</a>
+        <a href="#" class="w3-button w3-round">3</a>
+        <a href="#" class="w3-button w3-round">4</a>
+        <a href="#" class="w3-button w3-round"
+          ><i class="fa fa-arrow-right" aria-hidden="true"></i
+        ></a>
+      </div>
+
+      <!-- Bottom Banner -->
+
+      <div
+        class="w3-panel w3-card-4 w3-border w3-border-black"
+        id="bottomBanner"
+      >
+        <img
+          src="/assets/bottomBanner.jpg"
+          alt="bottomBanner"
+          style="width: 100%; height: 100%"
+        />
+      </div>
+    </section>
+
+    <!---Footer-->
+    <footer>
+      <div class="w3-container w3-brown footer">
+        <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+          <h2>Konya Kıyas</h2>
+          <p>
+            Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi
+            sitelerinden alınmıştır.
+          </p>
+        </div>
+
+        <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+          <h2>Kategoriler</h2>
+          <ul>
+            <li>
+              <a href="#home"
+                >Meyve &amp; Sebze&nbsp;<i class="'fas fa-apple-alt'"></i
+              ></a>
+            </li>
+            <br />
+            <li>
+              <a href="#news"
+                >Et &amp; Şarküteri&nbsp;<i class="fas fa-drumstick-bite"></i
+              ></a>
+            </li>
+            <br />
+            <li>
+              <a href="#contact"
+                >Süt &amp; Ürünleri&nbsp;<i class="fas fa-cheese"></i
+              ></a>
+            </li>
+            <br />
+            <li>
+              <a href="#about"
+                >Bakliyat&nbsp;<i class="fas fa-bread-slice"></i
+              ></a>
+            </li>
+            <br />
+          </ul>
+        </div>
+
+        <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+          <h2>Konya Kıyas</h2>
+          <p>
+            Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi
+            sitelerinden alınmıştır.
+          </p>
+        </div>
+
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <p id="copyright">Konya Kıyas © Tüm Hakları Saklıdır 2020</p>
+      </div>
+    </footer>
+    <!--Footer-->
+
+    <!--Script-->
+    <script>
+      var slideIndex = 1;
+      showDivs(slideIndex);
+
+      function plusDivs(n) {
+        showDivs((slideIndex += n));
+      }
+
+      function showDivs(n) {
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+        if (n > x.length) {
+          slideIndex = 1;
+        }
+        if (n < 1) {
+          slideIndex = x.length;
+        }
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex - 1].style.display = "block";
+      }
+    </script>
+    <script src="/script/getDataCorbaBulyon.js" type="module"></script>
+    <script src="/script/allDataFunction.js" type="module"></script>
+    <script src="fiter.js"></script>
+  </body>
+</html>

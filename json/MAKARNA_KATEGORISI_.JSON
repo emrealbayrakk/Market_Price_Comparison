@@ -1,0 +1,936 @@
+{
+  "TEMEL GIDA": {
+    "MAKARNA": {
+      "ANKARA": {
+        "ANKARA 5 KG ARPA ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "32.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3136"
+          },
+          "MİSMAR": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-arpa-sehriye-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA 5 KG BURGU": {
+          "NAR GROSS": {
+            "FİYAT": "32.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3134"
+          },
+          "MİSMAR": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-burgu-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-5-kg-burgu"
+          }
+        },
+        "ANKARA 5 KG FİYONK": {
+          "NAR GROSS": {
+            "FİYAT": "32.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3135"
+          },
+          "MİSMAR": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-fiyonk-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-5-kg-fiyonk"
+          }
+        },
+        "ANKARA 500 GR ARPA ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1309"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-arpa-sehriye-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-arpa-sehriye-500-gr"
+          }
+        },
+        "ANKARA 500 GR BONCUK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3138"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-boncuk-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA 500 GR BURGU MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1308"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-burgu-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-burgu-500-gr"
+          }
+        },
+        "ANKARA 500 GR ERİŞTE MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3158"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-eriste-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA 500 GR FİYONK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1304"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-fiyonk-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-fiyonk-500-gr"
+          }
+        },
+        "ANKARA 500 GR KALEM MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3143"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-kalem-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA 500 GR KELEBEK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3114"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-kelebek-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-kelebek-500-gr"
+          }
+        },
+        "ANKARA 500 GR KUSKUS MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3157"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-kuskus-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-kuskus-500-gr"
+          }
+        },
+        "ANKARA 500 GR MANTI MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=6619"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-manti-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-manti-500-gr"
+          }
+        },
+        "ANKARA 500 GR NUHUN GEMİSİ HAYVAN FİGÜRLERİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3116"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-nuhun-gemisi-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-sebzeli-nuhun-gemisi-350-gr"
+          }
+        },
+        "ANKARA 500 GR SPAGHETTİ MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1306"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-spagetti-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-spaghetti-500-gr"
+          }
+        },
+        "ANKARA 500 GR TEL ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1322"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-tel-sehriye-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-tel-sehriye-500-gr"
+          }
+        },
+        "ANKARA 500 GR YILDIZ ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3115"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-yildiz-sehriye-500-gr"
+          }
+        },
+        "ANKARA 500 GR YÜKSÜK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1310"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-yuksuk-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-yuksuk-500-gr"
+          }
+        },
+        "ANKARA 500 GR İNCE UZUN MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "3.35",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1318"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-ince-uzun-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-ince-uzun-500-gr"
+          }
+        },
+        "ANKARA KEPEKLİ 350 GR. SPAGETTİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1295"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA SEBZELİ BURGU 350 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3173"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA SEBZELİ NUH'UN GEMİSİ 350 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3174"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA TAMBUĞDAYLI ÇUBUK 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3120"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA MAKARNA BUKLE 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-bukle-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA MAKARNA DİRSEK 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-dirsek-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA MAKARNA YÜKSÜK 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ankara-makarna-yuksuk-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ANKARA MAKARNA 5 KG INCE UZUN": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ankara-makarna-5-kg-ince-uzun"
+          }
+        }
+      },
+      "BARİLLA": {
+        "BARİLLA 500 GR FUSİLLİ BURGU": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3163"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BARİLLA 500 GR MİNİ MİDYE": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3176"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BARİLLA 500 GR PENNE RİGATE KALEM": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3164"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BARİLLA 500 GR SPAGHETTİ": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3162"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "İNDOMİE": {
+        "INDOMİE 60 GR BARDAK DANA ETİ ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=2173"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-dana-eti-aromali-hazir-noodle-60-gr"
+          }
+        },
+        "INDOMİE 60 GR BARDAK KÖRİ ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3169"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-kori-aromali-hazir-noodle-60-gr"
+          }
+        },
+        "INDOMİE 60 GR BARDAK TAVUK ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3144"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-tavuk-aromali-hazir-noodle-60-gr"
+          }
+        },
+        "INDOMİE 70 GR TAVUK ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3149"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-noodle-tavuk-cesnili-70-gr"
+          }
+        },
+        "INDOMİE 75 GR KÖRİ ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3186"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-noodle-kori-cesnili-75-gr"
+          }
+        },
+        "INDOMİE 75 GR SEBZE ÇEŞNİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3148"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-noodle-sebze-cesnili-75-gr"
+          }
+        },
+        "INDOMİE 75 GR SPESİYAL": {
+          "NAR GROSS": {
+            "FİYAT": "2.20",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3187"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-noodle-spesiyal-75-gr"
+          }
+        },
+        "INDOMİE ACI VE BAHARATLI HAZIR NOODLE 80 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-aci-ve-baharatli-hazir-noodle-80-gr"
+          }
+        },
+        "INDOMİE ACI YESIL BIBERLI HAZIR NOODLE 80 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-aci-yesil-biberli-hazir-noodle-80-gr"
+          }
+        },
+        "INDOMİE SEBZE AROMALI HAZIR NOODLE 60 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-sebze-aromali-hazir-noodle-60-gr"
+          }
+        },
+        "INDOMİE SOYA SOSLU HAZIR NOODLE 80 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.besyol.com.tr/urun/indomie-soya-soslu-hazir-noodle-80-gr"
+          }
+        }
+      },
+      "KNORR": {
+        "KNORR NOODLE 66 GR KÖRİLİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.15",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3224"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "OBA": {
+        "OBA MAKARNA 500 GR ARPA ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3197"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.mismarsanalmarket.com/oba-arpa-sehriye-mak-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR BURGU": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3155"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.mismarsanalmarket.com/oba-burgu-makarna-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR FİYONK": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3150"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR SPAGHETTİ": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3118"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR TEL ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3199"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR YÜKSÜK": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3152"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR İNCE UZUN": {
+          "NAR GROSS": {
+            "FİYAT": "2.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3153"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OBA MAKARNA 500 GR KELEBEK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.25",
+            "LİNK": "https://www.mismarsanalmarket.com/oba-kelebek-makarna-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SELVA": {
+        "SELVA 350 GR RUŞEYMLİ MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "5.75",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=2017"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 400 GR KÖY ERİŞTESİ YUMURTALI": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3168"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-koy-eristesi-400-gr-yumurtali"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 5 KG MAKARNA BURGU": {
+          "NAR GROSS": {
+            "FİYAT": "29.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=2015"
+          },
+          "MİSMAR": {
+            "FİYAT": "29.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-burgu-mak-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 5 KG MAKARNA FİYONK": {
+          "NAR GROSS": {
+            "FİYAT": "29.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3191"
+          },
+          "MİSMAR": {
+            "FİYAT": "29.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-fiyonk-mak-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.90",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-5kg-cesitleri"
+          }
+        },
+        "SELVA 5 KG MAKARNA İNCE UZUN": {
+          "NAR GROSS": {
+            "FİYAT": "29.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3184"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 500 GR ARPA ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1296"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-arpa-sehriye-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-arpa-sehriye-500-gr"
+          }
+        },
+        "SELVA 500 GR BURGU MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1319"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-burgu-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-burgu-500-gr"
+          }
+        },
+        "SELVA 500 GR DİRSEK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3181"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-dirsek-500-gr"
+          }
+        },
+        "SELVA 500 GR FIRIN SPAGHETTİ MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1316"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 500 GR FİYONK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1293"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-fiyonk-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-fiyonk-500-gr"
+          }
+        },
+        "SELVA 500 GR KALEM MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3201"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-kalem-500-gr"
+          }
+        },
+        "SELVA 500 GR KELEBEK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1317"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-kelebek-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-kelebek-500-gr"
+          }
+        },
+        "SELVA 500 GR KUSKUS MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3180"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-kuskus-500-gr"
+          }
+        },
+        "SELVA 500 GR MANTI MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1314"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-manti-500-gr"
+          }
+        },
+        "SELVA 500 GR SPAGHETTİ MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3125"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-spaghetti-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-spaghetti-500-gr"
+          }
+        },
+        "SELVA 500 GR TEL ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1297"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-tel-sehriye-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-tel-sehriye-500-gr"
+          }
+        },
+        "SELVA 500 GR YILDIZ ŞEHRİYE": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3188"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-yildiz-sehriye-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-yildiz-sehriye-500-gr"
+          }
+        },
+        "SELVA 500 GR YÜKSÜK MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1298"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-yuksuk-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-yuksuk-500-gr"
+          }
+        },
+        "SELVA 500 GR ÜÇLÜ BURGU MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3189"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 500 GR İNCE SPAGETTİ MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3178"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA 500 GR İNCE UZUN MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1299"
+          },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-ince-uzun-makarna-500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-makarna-ince-uzun-500-gr"
+          }
+        },
+        "SELVA 350 GR YULAFLI BURGU MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3156"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA RUŞEYMLİ 350 GR BURGU MAKARNA": {
+          "NAR GROSS": {
+            "FİYAT": "5.25",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3154"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SELVA MANTI SOYALI 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=1329"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-soyali-manti-400-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/selva-soyali-manti-400gr"
+          }
+        },
+        "SELVA ARPA SEHRIYE 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "29.45",
+            "LİNK": "https://www.mismarsanalmarket.com/selva-arpa-sehriye-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SOFRACI": {
+        "SOFRACI SAÇAKLI ERİŞTE 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3218"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SOFRACI MANTI 400 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sofraci-manti-400-gr-20"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "VERONELLİ": {
+        "VERONELLİ 500 GR BURGU": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3179"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.mismarsanalmarket.com/veronelli-makarna-500-gr-burgu"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "VERONELLİ 500 GR SPAGETTİ": {
+          "NAR GROSS": {
+            "FİYAT": "3.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3117"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.mismarsanalmarket.com/veronelli-makarna-500-gr-spaghetti"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "VERONELLİ 500 GR KELEBEK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.50",
+            "LİNK": "https://www.mismarsanalmarket.com/veronelli-makarna-500-gr-kelebek"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "VERONELLİ 500 GR LAZANYA": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/veronelli-makarna-500-gr-lazanya"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "VERONELLİ 500 GR TAGLİATELLE": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/veronelli-tagliatelle-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "KRAL": {
+        "KRAL FIRINLANMIS ETLI MANTI 500GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kral-firinlanmis-etli-manti-500gr-20"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HASTEL": {
+        "HASTEL EV TIPI ERISTE 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.besyol.com.tr/urun/hastel-ev-tipi-eriste-500-gr"
+          }
+        },
+        "HASTEL MANTI 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/hastel-manti-500-gr"
+          }
+        }
+      },
+      "KADAYIFCIZADE": {
+        "KADAYIFCIZADE MANTI 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/kadayifcizade-manti-500-gr"
+          }
+        }
+      },
+      "ZAİKA": {
+        "ZAIKA GELENEKSEL SACAKLI ERISTE 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/zaika-geleneksel-sacakli-eriste-500-gr"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "ŞARKÜTERİ": {
+    "TEREYAĞ MARGARİN": {
+      "AKDAĞ": {
+        "AKDAĞ TEREYAĞI 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "47.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4232"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "AKDAĞ TEREYAĞI 900 GR KOVA": {
+          "NAR GROSS": {
+            "FİYAT": "44.90",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4233"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "AKDAĞ TEREYAĞI KÖY TİPİ 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "47.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4220"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "AKIN": {
+        "AKIN TEREYAĞI 500 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "28.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4251"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ARPACI": {
+        "ARPACI TEREYAĞI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "35.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4205"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "AYCA": {
+        "AYCA TEREYAĞI 1000 GR": {
+          "NAR GROSS": {
+            "FİYAT": "55.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4218"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "AYCA TEREYAĞI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "28.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4228"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "32.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ayca-tereyag-500-gr"
+          }
+        },
+        "AYCA TRABZON TİPİ TEREYAĞI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "28.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4230"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "AYCA TEREYAG 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ayca-tereyag-250-gr"
+          }
+        }
+      },
+      "ÜLKER": {
+        "BİZİM MARG.250 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "5.75",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4212"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-margarin-250-gr-kase-608500"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BİZİM MARG.250 GR PAKET": {
+          "NAR GROSS": {
+            "FİYAT": "4.75",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=221"
+          },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-margarin-250-gr-pkt-608200"
+          },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-margarin-250-gr-pkt"
+          }
+        },
+        "BİZİM MARGARİN 4 LÜ SAKLAMA KAP HEDİYELİ": {
+          "NAR GROSS": {
+            "FİYAT": "15.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=6778"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-yag-paket-margarin-4x250-gr-hediyeli"
+          }
+        },
+        "BİZİM MARGARIN 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-margarin-500-gr-608501"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.45",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-bizim-margarin-500-gr-kase"
+          }
+        },
+        "BİZİM MARGARIN 6X250 GR 6 LI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "20.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-margarin-6x250-gr-6-li-615204"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "LUNA TEREYAGLI KASE MARG. 200 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/luna-tereyagli-kase-marg-200-gr-603009"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "LUNA TEREYAGLI MARG. 200 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "6.45",
+            "LİNK": "https://www.mismarsanalmarket.com/luna-tereyagli-marg-200-gr-602805"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TEREMYAĞ 250 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "6.25",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=155"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45",
+            "LİNK": "https://www.mismarsanalmarket.com/teremyag-margarin-250-gr-kase-608505"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.75",
+            "LİNK": "https://www.besyol.com.tr/urun/terem-yag-kase-250gr"
+          }
+        },
+        "TEREMYAĞ 500 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "11.45",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4204"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/teremyag-margarin-500-gr-kase-608506"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.75",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-terem-yag-500-gr"
+          }
+        },
+        "TEREM GURME 250 GR KASE": {
+          "NAR GROSS": {
+            "FİYAT": "6.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4222"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TEREM GURME KAYMAKLI.250 GR PAKET": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4229"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.25",
+            "LİNK": "https://www.mismarsanalmarket.com/teremyag-gurme-kaymakli-250-gr-pkt-615606"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TEREM MARGARİN 250 GR PAKET": {
+          "NAR GROSS": {
+            "FİYAT": "4.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1883"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/teremyag-margarin-250-gr-pkt-608400"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.50",
+            "LİNK": "https://www.besyol.com.tr/urun/terem-yag-paket-250-gr"
+          }
+        }
+      },
+      "CEBEL": {
+        "CEBEL TEREYAĞ 250 GR": {
+          "NAR GROSS": {
+            "FİYAT": "15.45",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4206"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "17.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cebel-tereyag-250-gr"
+          }
+        },
+        "CEBEL TEREYAĞ 1 KG RULO": {
+          "NAR GROSS": {
+            "FİYAT": "58.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4203"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CEBEL TEREYAĞ 500 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "29.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4202"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "35.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cebel-tereyag-500gr"
+          }
+        }
+      },
+      "EMİRBEY": {
+        "EMİRBEY TEREYAĞI 1 KG RULO ": {
+          "NAR GROSS": {
+            "FİYAT": "46.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4245"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "46.95",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-1-kg"
+          }
+        },
+        "EMİRBEY TEREYAĞI 900 GR": {
+          "NAR GROSS": {
+            "FİYAT": "45.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4247"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "45.95",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-900-gr-kova"
+          }
+        },
+        "EMİRBEY TEREYAĞI 1900 GR KOVA": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "89.90",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-1900-gr-kova"
+          }
+        },
+        "EMİRBEY TEREYAĞI 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-250-gr"
+          }
+        },
+        "EMİRBEY TEREYAĞI 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "23.90",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-500-gr"
+          }
+        },
+        "EMİRBEY TEREYAĞI KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "46.95",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-tereyag-kg"
+          }
+        },
+        "EMİRBEY TRABZON TEREYAGI TUZLU 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "47.95",
+            "LİNK": "https://www.besyol.com.tr/urun/emirbey-trabzon-tereyagi-tuzlu-1000-gr"
+          }
+        }
+      },
+      "ENKA": {
+        "ENKA TEREYAĞI 1 KG RULO": {
+          "NAR GROSS": {
+            "FİYAT": "58.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1569"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "59.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-tereyag-1-kg"
+          }
+        },
+        "ENKA TEREYAĞI 250 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "15.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4211"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-terayag-250-gr"
+          }
+        },
+        "ENKA TEREYAĞI 900 GR TUZLU KOVA": {
+          "NAR GROSS": {
+            "FİYAT": "54.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4224"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ENKA TEREYAĞI 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "31.95",
+            "LİNK": "https://www.besyol.com.tr/urun/enka-tereyag-500-gr"
+          }
+        }
+      },
+      "HALK": {
+        "HALK MARGARİN 250 GR PAKET": {
+          "NAR GROSS": {
+            "FİYAT": "2.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=69"
+          },
+          "MİSMAR": {
+            "FİYAT": "3.25",
+            "LİNK": "https://www.mismarsanalmarket.com/halk-margarin-250-gr-612102"
+          },
+          "BEŞYOL": {
+            "FİYAT": "2.99",
+            "LİNK": "https://www.besyol.com.tr/urun/halk-margarin-250gr"
+          }
+        },
+        "HALK PAKET MARGARİN 6 LI": {
+          "NAR GROSS": {
+            "FİYAT": "17.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4207"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.45",
+            "LİNK": "https://www.mismarsanalmarket.com/halk-margarin-6x250-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/halk-paket-margarin-6-li"
+          }
+        }
+      },
+      "OVA": {
+        "OVA TEREYAĞI 1 KG RULO TUZLU": {
+          "NAR GROSS": {
+            "FİYAT": "66.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1578"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OVA TEREYAĞI 1 KG RULO TUZSUZ": {
+          "NAR GROSS": {
+            "FİYAT": "66.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1571"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OVA TEREYAĞI 250 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "19.45",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4200"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OVA TEREYAĞI 500 GR RULO TUZSUZ": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1582"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OVA YAYIK TEREYAGI 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "YOK",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1582"
+          },
+          "MİSMAR": {
+            "FİYAT": "63.95",
+            "LİNK": "https://www.mismarsanalmarket.com/ova-yayik-tereyagi-1-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ROYAL": {
+        "ROYAL TEREYAĞI 1 KG RULO": {
+          "NAR GROSS": {
+            "FİYAT": "49.90",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=58"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SANA": {
+        "SANA KLASIK 6 LI PAKET": {
+          "NAR GROSS": {
+            "FİYAT": "21.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1886"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SANA EKMEK USTU KASE 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-ekmek-ustu-kase"
+          }
+        },
+        "SANA HAMURISI MARGARIN 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.99",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-hamurisi-margarin-250-gr"
+          }
+        },
+        "SANA KASE KLASIK 250 G": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-kase-klasik-250-g"
+          }
+        },
+        "SANA KASE TEREYAGI LEZZETI 250 G": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-kase-tereyagi-lezzeti-250-g"
+          }
+        },
+        "SANA KLASIK MARGARIN 250 GR PAKET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-klasik-margarin-250-paket"
+          }
+        },
+        "SANA MUTLU AILE PAKET 200 G": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sana-mutlu-aile-paket-200-g"
+          }
+        }
+      },
+      "SÜTAŞ": {
+        "SÜTAŞ TEREYAĞI 200 GR PAST": {
+          "NAR GROSS": {
+            "FİYAT": "12.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4241"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-tereyag-200-gr"
+          }
+        },
+        "SÜTAŞ TEREYAĞI 225 GR YAYIK": {
+          "NAR GROSS": {
+            "FİYAT": "14.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4243"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/sutas-tereyag-225-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-tereyag-225-gr"
+          }
+        },
+        "SÜTAŞ TEREYAĞI 750 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "47.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4208"
+          },
+          "MİSMAR": {
+            "FİYAT": "47.95",
+            "LİNK": "https://www.mismarsanalmarket.com/999-sutas-750-gr-bakkal-pastorize-tereyag"
+          },
+          "BEŞYOL": {
+            "FİYAT": "47.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-tereyag-750-gr"
+          }
+        },
+        "SÜTAŞ TEREYAĞI 100 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sutas-tereyag-100-gr"
+          }
+        }
+      },
+      "TORKU": {
+        "TORKU TEREYAĞI 1 KG RULO": {
+          "NAR GROSS": {
+            "FİYAT": "55.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=2921"
+          },
+          "MİSMAR": {
+            "FİYAT": "49.90",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-tereyag-1000-gr-rulo"
+          },
+          "BEŞYOL": {
+            "FİYAT": "58.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-tereyag-1000-gr"
+          }
+        },
+        "TORKU TEREYAĞI 500 GR": {
+          "NAR GROSS": {
+            "FİYAT": "37.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=4221"
+          },
+          "MİSMAR": {
+            "FİYAT": "37.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-tereyag-500-gr-rulo"
+          },
+          "BEŞYOL": {
+            "FİYAT": "32.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-tereyag-500-gr"
+          }
+        },
+        "TORKU TEREYAĞI KASE 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "16.75",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-tereyag-kase-250-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-tereyag-kase-250-gr"
+          }
+        }
+      },
+      "TRAKYAĞ": {
+        "TRAKYAĞ MARGARİN PAKET 250 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.65",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=163"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "ÇAĞLAK": {
+        "ÇAĞLAK TEREYAĞI 1 KG RULO": {
+          "NAR GROSS": {
+            "FİYAT": "49.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1574"
+          },
+          "MİSMAR": {
+            "FİYAT": "49.90",
+            "LİNK": "https://www.mismarsanalmarket.com/caglak-1000-gr-tereyagi-tuzsuz"
+          },
+          "BEŞYOL": {
+            "FİYAT": "51.95",
+            "LİNK": "https://www.besyol.com.tr/urun/caglak-tereyag-1-kg"
+          }
+        },
+        "ÇAĞLAK TEREYAĞI 1900 GR KOVA": {
+          "NAR GROSS": {
+            "FİYAT": "98.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1573"
+          },
+          "MİSMAR": {
+            "FİYAT": "99.00",
+            "LİNK": "https://www.mismarsanalmarket.com/caglak-1900-gr-tereyagi-kova-tuzlu"
+          },
+          "BEŞYOL": {
+            "FİYAT": "98.95",
+            "LİNK": "https://www.besyol.com.tr/urun/caglak-tereyag-1900-gr"
+          }
+        },
+        "ÇAĞLAK TEREYAĞI 3850 GR KOVA": {
+          "NAR GROSS": {
+            "FİYAT": "198.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1579"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ÇAĞLAK TEREYAĞI 500 GR RULO": {
+          "NAR GROSS": {
+            "FİYAT": "25.45",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=1570"
+          },
+          "MİSMAR": {
+            "FİYAT": "25.95",
+            "LİNK": "https://www.mismarsanalmarket.com/caglak-500-gr-tuzsz-tereyagi"
+          },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/caglak-tereyagi-500-gr"
+          }
+        },
+        "ÇAĞLAK TEREYAĞI 900 GR KOVA": {
+          "NAR GROSS": {
+            "FİYAT": "49.95",
+            "LİNK": "http://nargross.com/sarkuteri/tereyag-ve-margarin?product_id=311"
+          },
+          "MİSMAR": {
+            "FİYAT": "49.90",
+            "LİNK": "https://www.mismarsanalmarket.com/caglak-900-gr-tereyagi-kova-tuzlu"
+          },
+          "BEŞYOL": {
+            "FİYAT": "51.95",
+            "LİNK": "https://www.besyol.com.tr/urun/caglak-tereyag-900-gr-kova"
+          }
+        },
+        "ÇAĞLAK TRAKYA TEREYAGI KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "47.90",
+            "LİNK": "https://www.mismarsanalmarket.com/caglak-trakya-tereyagi-dokme"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HASAN EKİCİ": {
+        "HASAN EKICI KARADENIZ TIPI TEREYAGI KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "48.90",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-karadeniz-tipi-tereyagi-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAG TUZSUZ OZEL KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "54.90",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyag-tuzsuz-ozel-dok-suda"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI 1000 GR RULO": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "46.80",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-1000-gr-rulo"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI 1900 GR KOVA": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "94.90",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-1900-gr-kova"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI 250 GR RULO": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.90",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-250-gr-rulo"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI 500 GR RULO": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "25.80",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-500-gr-rulo"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI 900 GR KOVA": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "44.95",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-900-gr-kova"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASAN EKICI TEREYAGI KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "46.80",
+            "LİNK": "https://www.mismarsanalmarket.com/hasan-ekici-tereyagi-dokme"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "KILINÇ": {
+        "KILINÇ TEREYAG 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "44.90",
+            "LİNK": "https://www.mismarsanalmarket.com/kilinc-tereyag-900-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KILINÇ TEREYAG KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "45.90",
+            "LİNK": "https://www.mismarsanalmarket.com/kilinc-tereyag-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "KÖYÜM": {
+        "KÖYÜM TEREYAG 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/koyum-tereyag-250-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KÖYÜM TEREYAG 1000 GR RULO": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "52.95",
+            "LİNK": "https://www.mismarsanalmarket.com/koyum-tereyagi-1000-gr-rulo"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "KÖYÜM TEREYAG 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "26.95",
+            "LİNK": "https://www.mismarsanalmarket.com/koyum-tereyagi-500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "N1": {
+        "N1 KOVA TEREYAG 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "54.95",
+            "LİNK": "https://www.mismarsanalmarket.com/n1-kova-tereyag-900-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "NADİR AVCAN": {
+        "NADİR AVCAN TEREYAGI 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "43.90",
+            "LİNK": "https://www.mismarsanalmarket.com/nadir-avcan-tereyagi-900-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "NADİR AVCAN TEREYAGI KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "44.90",
+            "LİNK": "https://www.mismarsanalmarket.com/nadir-avcan-tereyagi-dok"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "DOLUNAY": {
+        "DOLUNAY ERZURUM TIPI TEREYAG KG FİYATI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "45.95",
+            "LİNK": "https://www.besyol.com.tr/urun/dolunay-erzurum-tipi-tereyag-kg"
+          }
+        }
+      },
+      "PINAR": {
+        "PINAR TEREYAG FOLYO 200 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "14.50",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-tereyag-folyo-200-gr"
+          }
+        }
+      },
+      "BECEL": {
+        "BECEL KLASIK MARGARIN 250 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/becel-klasik-margarin-250-ml"
+          }
+        },
+        "BECEL MARGARIN SIZMA ZEYTINYAGLI EGE BOLGESINDEN 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/becel-sizma-zeytinyagli-ege-bolgesinden-500-gr"
+          }
+        },
+        "BECEL MARGARIN SIZMA ZEYTINYAGLI 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/becel-sizma-zeytinyagli-margarin-250-gr"
+          }
+        },
+        "BECEL TEREYAGI KEYFI MARGARIN 250 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/becel-tereyagi-keyfi-margarin-250-gr"
+          }
+        }
+      }
+    }
+  }
+}

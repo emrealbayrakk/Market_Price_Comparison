@@ -1,0 +1,261 @@
+<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Giga&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style/style.css">
+<link rel="stylesheet" href="fontawesome/css/all.css" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<title>index</title>
+
+
+
+</head>
+
+<body>
+	<header>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-red w3-wide w3-padding w3-card-4">
+    <a href="/page/index.html" class="w3-bar-item w3-button"><b>KK</b> Konya Kıyas</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small" >
+
+      <div class="w3-dropdown-hover">
+        <a class="w3-button w3-red w3-card-4">Kategoriler</a>
+        <div class="w3-dropdown-content w3-bar-block w3-border">
+          <a href="/page/bakliyaturunleri.html" class="w3-bar-item w3-button">TEMEL GIDA </a>
+          <a href="/page/peynirurunleri.html" class="w3-bar-item w3-button">ŞARKÜTERİ</a>
+          <a href="/page/salcakonserveurunleri.html" class="w3-bar-item w3-button">KONSERVE</a>
+          <a href="/page/soslarsirkeler.html" class="w3-bar-item w3-button">SOSLAR SİRKELER</a>
+          <a href="/page/sıvıyagurunleri.html" class="w3-bar-item w3-button">SIVI YAĞLAR</a>
+          <a href="/page/corbabulyonurunleri.html" class="w3-bar-item w3-button">ÇORBALIK ÜRÜNLER</a>
+          <a href="/page/ketcapmayonezurunleri.html" class="w3-bar-item w3-button">KETÇAP MAYONEZ</a>
+          <a href="#" class="w3-bar-item w3-button">Temizlik Ürünleri</a>
+          <a href="#home" class="w3-bar-item w3-button">Bakım Ürünleri</a>
+          </div>
+        </div>
+
+      <a href="brosur.html" style="margin-left: 10px;" class="w3-bar-item w3-button w3-card-4">Bu Hafta Aktüel</a>
+      <a href="#about" style="margin-left: 10px;" class="w3-bar-item w3-button w3-card-4">İletişim</a>
+    </div>
+  </div>
+</div>
+</header>
+<section>
+<!--mini Slide 1-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Haftanın Bröşürü</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini" src="/assets/brosür.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+<!--mini Slide 2-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür2">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Haftanın Kampanyası</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini2" src="/assets/brosür.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+<!--mini Slide 3-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür3">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Fırsat Ürünü</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini3" src="/assets/brosür.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+ <!--Right Banner-->
+
+ <div class="w3-panel  w3-card-4 w3-border w3-border-black" id="rightBanner">
+    <img src="/assets/rightBanner.png" alt="rightBanner" style="height: 100%; width: 100%;">
+    </div>
+
+<!--Main Slide-->
+<div class="w3-container w3-white w3-round w3-card-4 brosurSlide" id="brosurSlide">
+    <div class="w3-container">
+
+
+        
+        <div class="w3-container w3-teal">
+            <h1 id="baslik">MART 2021</h1>
+          </div>
+          
+          <div class="w3-row-padding w3-margin-top">
+            <div class="w3-third">
+              <div class="w3-card w3-yellow">
+                <img class="broşürLogo" src="/assets/logo/nargross.png" style="width:100%;cursor:pointer"
+            onclick="openModal();currentDiv(1)" class="w3-hover-shadow">
+                <div class="w3-container">
+                  <h5>Nargross MART BROSURU</h5>
+                </div>
+              </div>
+            </div>
+          
+            <div class="w3-third">
+              <div class="w3-card w3-red">
+                <img class="broşürLogo" src="/assets/logo/mismar.png" style="width:100%;cursor:pointer"
+            onclick="openModal();currentDiv(2)" class="w3-hover-shadow">
+                <div class="w3-container">
+                  <h5>MİSMAR MART BROSURU</h5>
+                </div>
+              </div>
+            </div>
+          
+            <div class="w3-third">
+              <div class="w3-card w3-gray">
+                <img class="broşürLogo" src="/assets/logo/besyol.png" style="width:100%;cursor:pointer"
+                onclick="openModal();currentDiv(3)" class="w3-hover-shadow">
+                <div class="w3-container">
+                  <h5>BESYOL MART BROSURU</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
+          </div>
+
+  
+          
+        </div>
+        
+        <div style="padding-top: 0px;" id="myModal" class="w3-modal ">
+         <span class="w3-text-black w3-xxxlarge w3-hover-text-grey w3-container w3-display-topright xd" onclick="closeModal()" style="cursor:pointer">×</span>
+         <div class="w3-modal-content ">
+        
+          <div style="margin-top: 0px !important; width: 1500px !important;" class="w3-content w3-round w3-card-4 w3-white" >
+           <img  class="mySlidesBrosur" src="/assets/aktüelFoto/nargross1.jpg" >
+           <img class="mySlidesBrosur" src="/assets/aktüelFoto/aktüelbeşyol.jpg">
+           <img class="mySlidesBrosur" src="/assets/aktüelFoto/aktüelmismar.jpg" >
+           <div class="w3-row w3-gray w3-center">
+            <div class="w3-display-container">
+             <p id="caption"></p>
+             <span class="w3-display-left w3-btn" onclick="plusDivs(-1)">❮</span>
+             <span class="w3-display-right w3-btn" onclick="plusDivs(1)">❯</span>
+            </div>
+            <div class="w3-col s4">
+             <img class="demo w3-opacity w3-hover-opacity-off" src="/assets/aktüelFoto/nargross1.jpg" style="width:100%" onclick="currentDiv(1)" alt="nargross">
+            </div>
+            <div class="w3-col s4">
+             <img class="demo w3-opacity w3-hover-opacity-off" src="/assets/aktüelFoto/aktüelbeşyol.jpg" style="width:100%" onclick="currentDiv(2)" alt="mismar ">
+            </div>
+            <div class="w3-col s4">
+             <img class="demo w3-opacity w3-hover-opacity-off" src="/assets/aktüelFoto/aktüelmismar.jpg" style="width:100%" onclick="currentDiv(3)" alt="beşyol">
+            </div>
+           </div> <!-- End row -->
+          </div> <!-- End w3-content -->
+          
+         </div> <!-- End modal content -->
+        </div> <!-- End modal -->
+        
+        </div>
+        
+        
+</div>
+</section>
+
+
+
+
+
+
+
+
+<!---Footer-->
+<footer>
+  <div class="w3-container w3-brown footer" id="indexFooter">
+    <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+       <h2>Konya Kıyas</h2>
+       <p>Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi sitelerinden alınmıştır.</p>
+    </div>
+
+    <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+     <h2>Kategoriler</h2>
+     <ul>
+       <li><a href="#home">Meyve &amp; Sebze&nbsp;<i class="'fas fa-apple-alt'"></i></a></li><br>
+       <li><a href="#news">Et &amp; Şarküteri&nbsp;<i class="fas fa-drumstick-bite"></i></a></li><br>
+       <li><a href="#contact">Süt &amp; Ürünleri&nbsp;<i class="fas fa-cheese"></i></a></li><br>
+     <li><a href="#about">Bakliyat&nbsp;<i class="fas fa-bread-slice"></i></a></li><br>
+     </ul>
+   </div>
+
+   <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+     <h2>Konya Kıyas</h2>
+     <p>Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi sitelerinden alınmıştır.</p>
+  </div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <p id="copyright">Konya Kıyas © Tüm Hakları Saklıdır 2020</p>
+  </div>
+
+  
+</footer>
+<!--Footer-->
+
+
+
+<script>
+    function openModal() {
+      document.getElementById('myModal').style.display = "block";
+    }
+    
+    function closeModal() {
+      document.getElementById('myModal').style.display = "none";
+    }
+    
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    
+    function currentDiv(n) {
+      showDivs(slideIndex = n);
+    }
+    
+    function showDivs(n) {
+      var i ;
+      var x = document.getElementsByClassName("mySlidesBrosur");
+      var dots = document.getElementsByClassName("demo");
+      var captionText = document.getElementById("caption");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" w3-opacity-off", "");
+      }
+      x[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " w3-opacity-off";
+      captionText.innerHTML = dots[slideIndex-1].alt;
+    }
+
+    </script>
+
+   <script src="addCart.js"></script>
+    <script src="js.js" > </script>
+
+
+	
+</body>
+</html>

@@ -1,0 +1,193 @@
+{
+  "TEMEL GIDA": {
+    "ŞEKER": {
+      "DOĞUŞ": {
+        "DOĞUŞ KÜP ŞEKER 1 KG 405 Lİ": {
+          "NAR GROSS": {
+            "FİYAT": "6.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3472"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞUŞ TOZ ŞEKER 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3467"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DOĞUŞ TOZ ŞEKER 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "24.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3478"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+        
+        },
+      
+      "GİTAŞ": {
+        "GİTAŞ KÜP ŞEKER 750 GR 360 ADETLİ": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=1392"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/gitas-kup-seker-750-gr"
+          }
+        },
+        "GİTAŞ KÜP ŞEKER 1000 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/gitas-kup-seker-1000-gr"
+          }
+        }
+      },
+      "TARIM KREDİ": {
+        "TARIM KREDİ TOZ ŞEKER 2 KG": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3476"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TORKU": {
+        "TORKU KÜP ŞEKER 1KG 405 AD": {
+          "NAR GROSS": {
+            "FİYAT": "6.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=167"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-kup-seker-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-seker-kup-seker-1kg-405-li"
+          }
+        },
+        "TORKU KÜP ŞEKER 750GR 360 AD": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=96"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.45",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-kup-seker-750-gr-400094"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-seker-kup-750gr"
+          }
+        },
+        "TORKU TOZ ŞEKER 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3466"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-toz-seker-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-toz-seker-1kg"
+          }
+        },
+        "TORKU TOZ ŞEKER 2 KG": {
+          "NAR GROSS": {
+            "FİYAT": "12.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3464"
+          },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-toz-seker-2-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-toz-seker-2kg"
+          }
+        },
+        "TORKU TOZ ŞEKER 3 KG": {
+          "NAR GROSS": {
+            "FİYAT": "18.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3463"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-toz-seker-3-kg-400091"
+          },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-toz-seker-3kg"
+          }
+        },
+        "TORKU TOZ ŞEKER 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "24.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&product_id=62"
+          },
+          "MİSMAR": {
+            "FİYAT": "25.80",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-toz-seker-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "25.49",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-toz-seker-5kg"
+          }
+        }
+      },
+      "ÖĞÜN": {
+        "ÖĞÜN TOZ ŞEKER 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "23.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_114&product_id=3473"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "23.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ogun-kristal-toz-seker-5-kg"
+          }
+        }
+      },
+      "KRİSTAL": {
+        "KRISTAL TOZ SEKER 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "23.95",
+            "LİNK": "https://www.mismarsanalmarket.com/kristal-toz-sekeri-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "IRMAK": {
+        "IRMAK TOZ SEKER 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/irmak-toz-seker-1-kg"
+          }
+        },
+        "IRMAK TOZ SEKER 3 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/irmak-toz-seker-3-kg"
+          }
+        }
+      }
+    }
+    }
+  }
+

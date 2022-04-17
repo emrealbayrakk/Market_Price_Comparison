@@ -1,0 +1,439 @@
+<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Viga&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lexend+Giga&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style/style.css">
+<link rel="stylesheet" href="../fontawesome/css/all.css" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<title>Konya Kıyas</title>
+
+
+
+</head>
+
+<body>
+	<header>
+
+
+
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-red w3-wide w3-padding w3-card-4">
+    <a href="index.html" class="w3-bar-item w3-button"><b>KK</b> Konya Kıyas</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small" >
+
+
+     
+      <div class="w3-dropdown-hover">
+        <a class="w3-button w3-red w3-card-4">Kategoriler</a>
+        <div class="w3-dropdown-content w3-bar-block w3-border">
+          <a href="bakliyaturunleri.html" class="w3-bar-item w3-button">TEMEL GIDA </a>
+          <a href="peynirurunleri.html" class="w3-bar-item w3-button">ŞARKÜTERİ</a>
+          <a href="salcakonserveurunleri.html" class="w3-bar-item w3-button">KONSERVE</a>
+          <a href="soslarsirkeler.html" class="w3-bar-item w3-button">SOSLAR SİRKELER</a>
+          <a href="sıvıyagurunleri.html" class="w3-bar-item w3-button">SIVI YAĞLAR</a>
+          <a href="corbabulyonurunleri.html" class="w3-bar-item w3-button">ÇORBALIK ÜRÜNLER</a>
+          <a href="ketcapmayonezurunleri.html" class="w3-bar-item w3-button">KETÇAP MAYONEZ</a>
+          <a href="#" class="w3-bar-item w3-button">Temizlik Ürünleri</a>
+          <a href="#home" class="w3-bar-item w3-button">Bakım Ürünleri</a>
+          </div>
+        </div>
+
+      <a href="/brosur.html" style="margin-left: 10px;" class="w3-bar-item w3-button w3-card-4">Bu Hafta Bro</a>
+      <a href="#about" style="margin-left: 10px;" class="w3-bar-item w3-button w3-card-4">İletişim</a>
+    </div>
+  </div>
+</div>
+</header>
+<section>
+<!--mini Slide 1-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Haftanın Bröşürü</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini" src="../assets/superfresh.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+<!--mini Slide 2-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür2">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Haftanın Kampanyası</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini2" src="../assets/tamek.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+<!--mini Slide 3-->
+<div class="w3-container w3-round w3-card-4 listClass" id="indexBrosür3">
+  <ul>
+    <li style="padding: 0px;background-color: white;width: 200px;"><h5>Fırsat Ürünü</h5></li>
+    <div class="w3-content w3-display-container">
+      <img class="mySlidesMini3" src="../assets/brosür.jpg" style="width:100%" height="300px"> 
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button style="margin-top: 50px; opacity: 50%;" class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+  </ul>
+</div>
+
+<!--Main Slide-->
+<div class="w3-container w3-white w3-round w3-card-4 mainSlide">
+
+ 
+  <img class="mySlides w3-round" src="/assets/banner1.png" style="width:100%;display:none">
+  <img class="mySlides w3-round" src="/assets/banner1.png" style="width:100%">
+  <img class="mySlides w3-round" src="/assets/banner1.png" style="width:100%;display:none">
+
+  <div class="w3-row-padding w3-section">
+    <div class="w3-col s4">
+      <img class="demos w3-opacity w3-hover-opacity-off w3-round" src="/assets/banner1.png" style="width:100%;cursor:pointer" onclick="currentDiv(1)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demos w3-opacity w3-hover-opacity-off w3-round" src="/assets/banner1.png" style="width:100%;cursor:pointer" onclick="currentDiv(2)">
+    </div>
+    <div class="w3-col s4">
+      <img class="demos w3-opacity w3-hover-opacity-off w3-round" src="/assets/banner1.png" style="width:100%;cursor:pointer" onclick="currentDiv(3)">
+    </div>
+  </div>
+</div>
+
+<!--
+<div class="w3-container indexContainer w3-white w3-card-4 w3-round ">
+
+  <ul class="breadcrumb">
+    <li>Anasayfa</li>
+    <li>Kategoriler</li>
+  </ul>
+  
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href="meyveSebze.html"><img src="/assets/images/category/fruit.png" id="cardImg" class="w3-round" alt="Norway" ></a><br>
+		<h2>Meyve & Sebze</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href="eturunleri.html"><img src="/assets/images/category/meat.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Et & Şarküteri</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href="suturunleri.html"><img src="/assets/images/category/milk.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Süt & Mamülleri</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href="/page/bakliyaturunleri.html"><img src="/assets/images/category/bakliyat.jpg" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Bakliyat Ürünleri</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href="dondurulmus.html"><img src="/assets/images/category/dgıdalar.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h3>Dondurulmuş Gıdalar</h3>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href=""><img src="/assets/images/category/aburcubur.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Abur Cubur</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href=""><img src="/assets/images/category/drinks.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>İçecekler</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href=""><img src="/assets/images/category/temizlik.png" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Temizlik Ürünleri</h2>
+  </div>
+
+  <div class="w3-container w3-card-4 w3-white w3-round card" id="card">
+    <a href=""><img src="/assets/images/category/bakım.jpg" id="cardImg" class="w3-round" alt="Norway"></a><br>
+		<h2>Bakım Ürünleri</h2>
+  </div>
+</div>-->
+
+<div class="w3-container  w3-card-4 w3-round cont">
+<div class="baslık"><h2>KATEGORİLER</h2></div>
+  
+<div class="w3-card-4 zurt " >
+    <a href="bakliyaturunleri.html">
+    <img class="zart" src="../assets/category/temelgida.jpeg" alt="Alps">
+    <div class="w3-container w3-center"></a>
+      <p>TEMEL GIDA</p>
+    </div>
+  </div>
+
+  <div class="w3-card-4 zurt" >
+    <a href="peynirurunleri.html">
+    <img class="zart" src="../assets/category/sarküteri.jpg" alt="Alps" >
+    <div class="w3-container w3-center"></a>
+      <p>ŞARKÜTERİ</p>
+    </div>
+  </div>
+  <div class="w3-card-4 zurt" > 
+    <a href="#">
+    <img class="zart" src="/assets/kategorifotos/meyvesebze.png" alt="Alps" >
+    <div class="w3-container w3-center"></a>
+      <p>MEYVE SEBZE</p></a>
+    </div>
+  </div>
+
+  <div class="w3-card-4 zurt" >
+    <a href="#"></a>
+    <img class="zart" src="/assets/kategorifotos/içecek.jpg" alt="Alps" >
+    <div class="w3-container w3-center">
+      <p>İÇECEK</p>
+    </div>
+  </div>
+
+  <div class="w3-card-4 zurt" >
+    <a href="#">
+    <img class="zart" src="/assets/kategorifotos/ettavuk.jpg" alt="Alps" >
+    <div class="w3-container w3-center"></a>
+      <p>ET TAVUK</p>
+    </div></div>
+
+    <div class="w3-card-4 zurt" >
+      <a href="#">
+      <img class="zart" src="/assets/kategorifotos/kuruyemiş.jpg" alt="Alps" >
+      <div class="w3-container w3-center"></a>
+        <p>KURUYEMİŞ</p>
+      </div></div>
+
+      <div class="w3-card-4 zurt" >
+        <a href="unurunleri.html">
+        <img class="zart" src="/assets/kategorifotos/unlumamüller.jpg" alt="Alps" >
+        <div class="w3-container w3-center"></a>
+          <p>UNLU MAMÜLLER</p>
+        </div>
+      </div>
+
+        <div class="w3-card-4 zurt" >
+          <a href="#">
+          <img class="zart" src="/assets/kategorifotos/züccaciye.jpg" alt="Alps" >
+          <div class="w3-container w3-center"></a>
+            <p>ZÜCCAYİE</p>
+          </div></div>
+
+          <div class="w3-card-4 zurt" >
+            <a href="#">
+            <img class="zart" src="/assets/kategorifotos/temizlik.jpg" alt="Alps" >
+            <div class="w3-container w3-center"></a>
+              <p>TEMİZLİK</p>
+            </div>
+          </div>
+
+          <div class="w3-card-4 zurt" >
+            <a href="#">
+            <img class="zart" src="/assets/kategorifotos/bebekürünleri.jpg" alt="Alps" >
+            <div class="w3-container w3-center"></a>
+              <p>BEBEK ÜRÜNLERİ</p>
+            </div>
+          </div>
+  </div>
+
+
+<!--
+<div class="w3-container">
+  <div class="w3-card-4 categoryCard" id="cat1">
+    <img src="/assets/category/temelgida.jpeg" alt="Alps" style="width:200px">
+    <div class="w3-container w3-center">
+      <p>TEMEL GIDA</p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="w3-container">
+  <div class="w3-card-4 categoryCard" id="cat2">
+    <img src="/assets/category/temelgida.jpeg" alt="Alps" style="width:200px">
+    <div class="w3-container w3-center">
+      <p>ŞARKÜTERİ</p>
+    </div>
+  </div>
+</div>
+
+<div class="w3-container">
+  <div class="w3-card-4 categoryCard" id="cat3">
+    <img src="/assets/category/temelgida.jpeg" alt="Alps" style="width:200px">
+    <div class="w3-container w3-center">
+      <p>blabla</p>
+    </div>
+  </div>
+</div>
+
+<div class="w3-container">
+  <div class="w3-card-4 categoryCard" id="cat4">
+    <img src="/assets/category/temelgida.jpeg" alt="Alps" style="width:200px">
+    <div class="w3-container w3-center">
+      <p>blabla</p>
+    </div>
+  </div>
+</div>
+-->
+</div>
+
+
+<!--
+<div class="w3-container w3-white w3-card-4 w3-round indexKategori1">
+  <img src="/assets/category/temelgida.jpeg" class="categoryImg w3-round" alt="">
+  <h3 class="categoryName">TEMEL GIDA</h3></div>
+
+<div  class="w3-container w3-white w3-card-4 w3-round indexKategori2">ŞARKÜTERİ</div>
+
+<div class="w3-container w3-white w3-card-4 w3-round indexKategori3">sadsa</div>
+
+<div class="w3-container w3-white w3-card-4 w3-round indexKategori4">sadsa</div>
+
+<div class="w3-container w3-white w3-card-4 w3-round indexKategori5">sadsa</div>
+-->
+
+
+</section>
+
+
+
+
+
+
+
+
+<!---Footer-->
+<footer>
+  <div class="w3-container w3-brown footer" id="indexFooter">
+    <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+       <h2>Konya Kıyas</h2>
+       <p>Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi sitelerinden alınmıştır.</p>
+    </div>
+
+    <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+     <h2>Kategoriler</h2>
+     <ul>
+       <li><a href="#home">Meyve &amp; Sebze&nbsp;<i class="'fas fa-apple-alt'"></i></a></li><br>
+       <li><a href="#news">Et &amp; Şarküteri&nbsp;<i class="fas fa-drumstick-bite"></i></a></li><br>
+       <li><a href="#contact">Süt &amp; Ürünleri&nbsp;<i class="fas fa-cheese"></i></a></li><br>
+     <li><a href="#about">Bakliyat&nbsp;<i class="fas fa-bread-slice"></i></a></li><br>
+     </ul>
+   </div>
+
+   <div class="w3-container w3-round w3-transparent w3-card-4 footerPanel">
+     <h2>Konya Kıyas</h2>
+     <p>Karşılaştırılan fiyatlar haftalık olup, marketlerin kendi sitelerinden alınmıştır.</p>
+  </div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <p id="copyright">Konya Kıyas © Tüm Hakları Saklıdır 2020</p>
+  </div>
+
+  
+</footer>
+<!--Footer-->
+
+
+
+
+
+
+<script>
+
+  /*My slides Mini*/
+  var slideIndex = 1;
+  showDivs1(slideIndex);
+  
+  function plusDivs(n) {
+    showDivs1(slideIndex += n);
+  }
+  
+  function showDivs1(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlidesMini");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    x[slideIndex-1].style.display = "block";  
+  }
+  /**/
+
+  /*My slides Mini 2*/
+  var slideIndex = 1;
+  showDivs2(slideIndex);
+  
+  function plusDivs(n) {
+    showDivs2(slideIndex += n);
+  }
+  
+  function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlidesMini2");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    x[slideIndex-1].style.display = "block";  
+  }
+  /**/
+
+  /*My slides Mini 3*/
+  var slideIndex = 1;
+  showDivs3(slideIndex);
+  
+  function plusDivs(n) {
+    showDivs3(slideIndex += n);
+  }
+  
+  function showDivs1(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlidesMini3");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    x[slideIndex-1].style.display = "block";  
+  }
+  /**/
+
+  /* Main Slide */
+function currentDiv(n) {
+  showDivsa(slideIndex = n);
+}
+
+function showDivsa(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-opacity-off", "");
+  }
+  x[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " w3-opacity-off";
+}
+/**/
+</script>
+
+
+
+
+	
+</body>
+</html>

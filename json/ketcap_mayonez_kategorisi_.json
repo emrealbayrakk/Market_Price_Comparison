@@ -1,0 +1,456 @@
+{
+  "TEMEL GIDA": {
+    "KETÇAP MAYONEZ": {
+      "BİZİM": {
+        "BİZİM KETÇAP 400 GR TATLI": {
+          "NAR GROSS": {
+            "FİYAT": "6.75",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=6620"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-normal-400-gr-568105"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-ketcap-tatli-400-gr"
+          }
+        },
+        "BİZİM KETÇAP 600 GR ACILI": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez/B%C4%B0Z%C4%B0M-KET%C3%87AP-600-GR-ACILI"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-acili-750-gr-481509"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-ketcap-acili-600-gr"
+          }
+        },
+        "BİZİM KETÇAP+MAYONEZ 750+650 GR": {
+          "NAR GROSS": {
+            "FİYAT": "19.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3263"
+          },
+          "MİSMAR": {
+            "FİYAT": "21.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-750-gr-mayonez-650-gr-481305"
+          },
+          "BEŞYOL": {
+            "FİYAT": "21.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-bizim-mutfak-ketcap-750-mayonez-650"
+          }
+        },
+        "BİZİM MAYONEZ 540 GR": {
+          "NAR GROSS": {
+            "FİYAT": "11.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=1335"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-mayonez-650-gr-481603"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mayonez-540-gr"
+          }
+        },
+        "BIZIM KETCAP 600 GR NORMAL": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-600-gr-normal-540037"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-ketcap-600-gr"
+          }
+        },
+        "BIZIM KETCAP 600GR + MAYONEZ 540 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-600gr-mayonez-540-gr-568100"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BIZIM KETCAP ACILI 400 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-ketcap-acili-400-gr-568106"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-ketcap-acili-400-gr"
+          }
+        },
+        "BIZIM MAYONEZ 330 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/bizim-mayonez-330-gr-568107"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/bizim-mayonez-330-gr"
+          }
+        },
+        "BIZIM KETCAP 400 GR+330 GR MAYONEZ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "15.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ulker-bizim-ketcap-400-gr-330-gr-mayonez"
+          }
+        }
+      },
+      "BURCU": {
+        "BURCU KETCAP ACILI 650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.75",
+            "LİNK": "https://www.besyol.com.tr/urun/burcu-ketcap-acili-650-gr"
+          }
+        },
+        "BURCU KETCAP TATLI 650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.75",
+            "LİNK": "https://www.besyol.com.tr/urun/burcu-ketcap-tatli-650-gr"
+          }
+        },
+        "BURCU KETCAP&MAYONEZ 650+550 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.75",
+            "LİNK": "https://www.besyol.com.tr/urun/burcu-ketcap-mayonez-bitirim-ikili-650-550-gr"
+          }
+        }
+      },
+      "CALVE": {
+        "CALVE KETÇAP 400 GR ACILI": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3267"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE KETÇAP 600 GR. ACILI+MAYONEZ 540 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "15.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3258"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE KETÇAP 600 GR.TAI+MAYONEZ 540 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "15.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3274"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/calve-ketcap-mayonez-2li-set-600-540-gr"
+          }
+        },
+        "CALVE KETCAP 600 GR ACILI": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-ketcap-600-gr-acili"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE KETCAP 600 GR NORMAL": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-ketcap-600-gr-normal"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "CALVE MAYONEZ 540 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.45",
+            "LİNK": "https://www.mismarsanalmarket.com/calve-mayonez-540-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HEİNZ": {
+        "HEINZ KETÇAP 460 GR ACI": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3275"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/heinz-ketcap-aci-460-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HEINZ KETÇAP 460 GR NORMAL": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/heinz-ketcap-normal-460-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/heinz-ketcap-460-gr"
+          }
+        },
+        "HEINZ MAYONEZ 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.mismarsanalmarket.com/heinz-mayonez-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HEINZ MAYONEZ 410 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/heinz-mayonez-410-ml"
+          }
+        }
+      },
+      "ÖNCÜ": {
+        "ÖNCÜ KETÇAP 700 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-ketcap-700-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-ketcap-tatli-700-gr"
+          }
+        },
+        "ÖNCÜ KETÇAP 700 GR ACILI ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-ketcap-700-gr-acili"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-ketcap-acili-700-gr"
+          }
+        },
+        "ÖNCÜ KETÇAP 400 GR ACILI ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-ketcap-acili-400-gr"
+          }
+        },
+        
+        "ÖNCÜ KETÇAP 400 GR TATLI ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-ketcap-tatli-400-gr"
+          }
+        }
+      },
+      "PINAR": {
+        "PINAR KETÇAP ACILI 420 GR ": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3265"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "PINAR MAYONEZ 350 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/pinar-mayonez-350-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "PINAR KETCAP 600 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-ketcap-600-gr"
+          }
+        },
+        "PINAR MAYONEZ 500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/pinar-mayonez-500-gr"
+          }
+        }
+      },
+      "TAMEK": {
+        "TAMEK KETCAP 400 GR ACILI ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-ketcap-400-gr-acili"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-ketcap-acili-400-gr"
+          }
+        },
+        "TAMEK KETCAP 400 GR NORMAL ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-ketcap-400-gr-normal"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-ketcap-400-gr"
+          }
+        },
+        "TAMEK KETCAP 650 GR ACILI ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-ketcap-650-gr-acili"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-ketcap-650-gr-acili"
+          }
+        },
+        "TAMEK KETCAP 650 GR NORMAL ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-ketcap-650-gr-normal"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-ketcap-650-gr"
+          }
+        },
+        "TAMEK MAYONEZ 345 GR. ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-mayonez-345-gr"
+          }
+        }
+      },
+      "TAT": {
+        "TAT KETÇAP 650 GR ACI ": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3259"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tat-ketcap-acili-650-ml"
+          }
+        },
+        "TAT KETÇAP 650 GR TATLI ": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3271"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tat-ketcap-tatli-650-ml"
+          }
+        },
+        "TAT KETÇAP 650 GR+MAYONEZ 550 GR": {
+          "NAR GROSS": {
+            "FİYAT": "17.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3257"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT MAYONEZ 550 GR": {
+          "NAR GROSS": {
+            "FİYAT": "11.95",
+            "LİNK": "http://nargross.com/temel-gida/ketcap-mayonez?product_id=3272"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TUKAŞ": {
+        "TUKAŞ MAYONEZ 335 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-mayonez-335-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-mayonez-335-gr"
+          }
+        },
+        "TUKAŞ ACILI KETÇAP 400 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-acili-ket-400gr"
+          }
+        },
+        "TUKAŞ KETÇAP 400 GR ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-ketcap-400gr"
+          }
+        },
+        "TUKAŞ PREMIUN KETCAP ACI-TATLI 700 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-premiun-ketcap-aci-tatli-700-gr"
+          }
+        }
+      },
+      "YONCA": {
+        "YONCA KETCAP ACI+MAYONEZ 620+560 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yonca-ketcap-aci-mayonez-650-560-ml"
+          }
+        },
+        "YONCA KETCAP TATLI+MAYONEZ 620+560 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yonca-ketcap-tatli-mayonez-650-560-ml"
+          }
+        }
+      }
+    }
+  }
+}

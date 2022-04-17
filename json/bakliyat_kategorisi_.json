@@ -1,0 +1,1259 @@
+{
+  "TEMEL GIDA": {
+    "BAKLİYAT": {
+      "ALTINYILDIZ": {
+        "ALTINYILDIZ 1 KG KIRIK PİRİNÇ": {
+          "RESİM" : "/assets/bakliyatResim/ALTINYILDIZ2,5KGNOHUT.jpg",
+          "NAR GROSS": {
+            "FİYAT": "4.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3142"
+          },
+          "MİSMAR": {
+            "FİYAT": "5.25 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kirik-princ-1-kg"
+
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-kirik-pir-1000-gr"
+
+          }
+          
+        },
+        "ALTINYILDIZ 2.5 KG BALDO PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "24.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=506"
+          },
+          "MİSMAR": {
+            "FİYAT": "24.90 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-baldo-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-baldo-pir-2500-gr"
+          }
+        },
+        "ALTINYILDIZ 2.5 KG KIRMIZI MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "24.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=507"
+          },
+          "MİSMAR": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kir-mercimek-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "22.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-k-mercimek-2500-g"
+          }
+        },
+        "ALTINYILDIZ 2.5 KG KURU FASÜLYE": {
+          "NAR GROSS": {
+            "FİYAT": "38.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=517"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "34.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-kuru-fasulye-2-5-kg"
+          }
+        },
+        "ALTINYILDIZ 2.5 KG NOHUT": {
+          "NAR GROSS": {
+            "FİYAT": "20.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3140"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "22.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-nohut-2-5-kg"
+          }
+        },
+        "ALTINYILDIZ 2.5 KG PİLAVLIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "23.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3165"
+          },
+          "MİSMAR": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-pil-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-pilav-pir-2500-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR BALDO PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "11.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=496"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-baldo-princ-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-baldo-pir-900-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR KIRMIZI MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "11.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3166"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.45 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-k-mercimek-900-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR KURU FASÜLYE": {
+          "NAR GROSS": {
+            "FİYAT": "13.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=422"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kuru-fasulye-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-kuru-fas-900-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR PİLAVLIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "9.45",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3167"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-pilav-pirinc-900-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR SARI MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3146"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-sari-mercimek-900-gr"
+          }
+        },
+        "ALTINYILDIZ 900 GR YEŞİL MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3171"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-yesil-mercimek-900-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ALTINYILDIZ 900 GR NOHUT": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=423"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.45 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-nohut-900-gr"
+          }
+        },
+        "ALTINYILDIZ LÜKS BALDO PİRİNÇ 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "35.95",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3170"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ALTINYILDIZ BALDO PİRİNÇ 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "52.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-baldo-pirinc-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "49.90 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-baldo-pir-5000-gr"
+          }
+        },
+        "ALTINYILDIZ CIGKOF.BULGUR 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-cigkof-bulgur-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-cig-kof-bul-900-g"
+          }
+        },
+        "ALTINYILDIZ KIRMIZI MERCİMEK 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kir-mercimek-1-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ALTINYILDIZ KÖFTELİK BULGUR 2.5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kof-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-koftelik-bulgur-2500-gr"
+          }
+        },
+        "ALTINYILDIZ KÖFTELİK BULGUR 900 GRAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-kof-bulgur-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-kof-bul-900-gr"
+          }
+        },
+        "ALTINYILDIZ PATLAYAN MISIR 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.75 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-patlayan-misir-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ALTINYILDIZ PİLAVLIK BULGUR 2.5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-pil-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-pilavlik-bulgur-2-5-kg"
+          }
+        },
+        "ALTINYILDIZ PİLAVLIK BULGUR 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/altinyildiz-pilavlik-bulgur-900-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-pilav-bulg-900-gr"
+          }
+        },
+        "ALTINYILDIZ AŞURELİK BULGUR 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-asure-bug-900-gr"
+          }
+        },
+        "ALTINYILDIZ PATLAYAN MISIR 900 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.45 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-pat-misir-900-gr"
+          }
+        },
+        "ALTINYILDIZ PİLAVLIK PİRİNÇ 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "45.90 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yil-pilav-pir-5000-gr"
+          }
+        },
+        "ALTINYILDIZ PİLAVLIK BULGUR 5 KG CUVAL": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "23.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altin-yildiz-bulgur-pilavlik-5-kg-cuval"
+          }
+        },
+        "ALTINYILDIZ KOFTELIK BULGUR 5 KG CUVAL": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "23.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/altinyildiz-koftelik-bulgur-5-kg-cuval"
+          }
+        }
+      },
+      "DURU": {
+        "DURU 1 KG BALDO PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "16.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=541", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-baldo-pirinc-1-kg", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-baldo-pirinc-1000-g", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          }
+        },
+        "DURU 1 KG BAŞBAŞI BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=530"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-basbasi-bulgur-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-basbasi-bulgur-1000-gr"
+          }
+        },
+        "DURU 1 KG ESMER ÇİĞ KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3131"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-esmer-cigkof-bulgur-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-esmer-cigkoftelik-bulgur-1000-gr"
+          }
+        },
+        "DURU 1 KG FASÜLYE 7 MM": {
+          "NAR GROSS": {
+            "FİYAT": "18.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=2163"
+          },
+          "MİSMAR": {
+            "FİYAT": "18.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kuru-fasulye-7-mm-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "19.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kuru-fasulye-1000-g"
+          }
+        },
+        "DURU 1 KG JASMİNE PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "21.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3182"
+          },
+          "MİSMAR": {
+            "FİYAT": "21.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-jasmine-pirinc-1-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU 1 KG KAMEO PİRİNÇ YERLİ": {
+          "NAR GROSS": {
+            "FİYAT": "16.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3127"
+          },
+          "MİSMAR": {
+            "FİYAT": "TÜKENDİ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kameo-pirinc-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "17.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kameo-pirinc-1000gr"
+          }
+        },
+        "DURU 1 KG KIRIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=526"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kirik-pirinc-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kirik-pirinc-1000-g"
+          }
+        },
+        "DURU 1 KG KIRMIZI MERCİMEK FUTBOL": {
+          "NAR GROSS": {
+            "FİYAT": "13.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=527"
+          },
+          "MİSMAR": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kirmizi-mercimek-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kirmizi-fut-mercimek-1-kg"
+          }
+        },
+        "DURU 1 KG KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=248"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-koftelik-bulgur-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-koftelik-bulgur-1000-g"
+          }
+        },
+        "DURU 1 KG NOHUT 8 MM": {
+          "NAR GROSS": {
+            "FİYAT": "10.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=538"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kocbasi-nohut-8-mm-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kocbasi-nohut-8-mm-1-kg"
+          }
+        },
+        "DURU 1 KG OSMANCIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "13.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=546"
+          },
+          "MİSMAR": {
+            "FİYAT": "13.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-osmancik-pil-pirinc-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-osman-pilav-pir-1000-g"
+          }
+        },
+        "DURU 1 KG PATLAYAN MISIR": {
+          "NAR GROSS": {
+            "FİYAT": "9.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=263"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-patlayan-misir-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-patlayan-misir-1000-g"
+          }
+        },
+        "DURU 1 KG PİLAVLIK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=93"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-bulgur-1000-g"
+          }
+        },
+        "DURU 1 KG PİLAVLIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "12.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3126"
+          },
+          "MİSMAR": {
+            "FİYAT": "12.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-pirinc-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-pirinc-1000-g"
+          }
+        },
+        "DURU 1 KG SARI MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "17.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=543"
+          },
+          "MİSMAR": {
+            "FİYAT": "17.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-sari-mercimek-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "17.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-sari-mercimek-1000-gr"
+          }
+        },
+        "DURU 1 KG YEŞİL MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "14.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=253"
+          },
+          "MİSMAR": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-yesil-mercimek-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-yesil-mercimek-1-kg"
+          }
+        },
+        "DURU 1 KG ÇİĞ KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=249"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-cigkoftelik-bulgur-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-cig-kof-bulgur-1000-g"
+          }
+        },
+        "DURU 1 KG ŞEHRİYELİ PİLAVLIK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "6.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3183"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU 2.5 KG BALDO PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "36.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=254"
+          },
+          "MİSMAR": {
+            "FİYAT": "37.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-baldo-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "37.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-baldo-pirinc-2500-g"
+          }
+        },
+        "DURU 2.5 KG FASÜLYE 7 MM": {
+          "NAR GROSS": {
+            "FİYAT": "44.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=259"
+          },
+          "MİSMAR": {
+            "FİYAT": "44.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kuru-fasulye-7-mm-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "44.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kuru-fasulye-7-mm-2-5-kg"
+          }
+        },
+        "DURU 2.5 KG KAMEO PİRİNÇ YERLİ": {
+          "NAR GROSS": {
+            "FİYAT": "39.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3141"
+          },
+          "MİSMAR": {
+            "FİYAT": "39.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kameo-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "40.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kameo-pilavlik-pirinc-2500-gr"
+          }
+        },
+        "DURU 2.5 KG KIRMIZI MERCİMEK FUTBOL": {
+          "NAR GROSS": {
+            "FİYAT": "32.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=252"
+          },
+          "MİSMAR": {
+            "FİYAT": "32.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kirmizi-futb-merc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "33.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kirmizi-mercimek-2500-gr"
+          }
+        },
+        "DURU 2.5 KG KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "16.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=497"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-koftelik-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-koftelik-bulgur-2500kg"
+          }
+        },
+        "DURU 2.5 KG NOHUT 8MM": {
+          "NAR GROSS": {
+            "FİYAT": "25.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=260"
+          },
+          "MİSMAR": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-kocbasi-nohut-2500-gr-8-mm"
+          },
+          "BEŞYOL": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-kocbasi-nohut-8-mm-2500-gr"
+          }
+        },
+        "DURU 2.5 KG OSMANCIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "31.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=179"
+          },
+          "MİSMAR": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-osmancik-pil-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "31.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-osman-pilav-pir-2500-g"
+          }
+        },
+        "DURU 2.5 KG PİLAVLIK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "16.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=487"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-bulgur-2500-g"
+          }
+        },
+        "DURU 2.5 KG PİLAVLIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "27.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=2910"
+          },
+          "MİSMAR": {
+            "FİYAT": "27.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-pirinc-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "28.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-pirinc-2500-gr"
+          }
+        },
+        "DURU 2.5 KG ÇİĞ KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "16.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=491"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-cigkoft-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-cig-koftelik-bulgur-2500-kg"
+          }
+        },
+        "DURU 2.5 KG İRİ BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "16.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3132"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-iri-bulgur-2-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-iri-bulgur-2-5-kg"
+          }
+        },
+        "DURU 5 KG KÖFTELİK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "29.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=246"
+          },
+          "MİSMAR": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-koftelik-bulgur-5-kg-cvl"
+          },
+          "BEŞYOL": {
+            "FİYAT": "28.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-koftelik-bulgur-5-kg-torba"
+          }
+        },
+        "DURU 5 KG PİLAVLIK BULGUR": {
+          "NAR GROSS": {
+            "FİYAT": "29.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=245"
+          },
+          "MİSMAR": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-5-kg-cuval"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-bulgur-5-kg-torba"
+          }
+        },
+        "DURU DUAL MANTARLI BULGUR 250 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3130"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PRATİK BÖRÜLCE 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3213"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PRATİK FASÜLYE 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3210"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PRATİK HAŞLANMIŞ MISIR 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3128"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PRATİK KIRMIZI FASÜLYE 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3212"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PRATİK NOHUT 400 GR": {
+          "NAR GROSS": {
+            "FİYAT": "2.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3211"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU 1KG AŞURELİK BUĞDAY": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-asurelik-bugday-1000-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.45 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-asurelik-bugday-1000-g"
+          }
+        },
+        "DURU BALDO PIRINC 5KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "82.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-baldo-pirinc-5kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "72.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-baldo-pirinc-5-kg"
+          }
+        },
+        "DURU CIGKOFELIK BULGUR 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-cigkofelik-bulgur-5-kg-cvl"
+          },
+          "BEŞYOL": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-cig-koftelik-bulgur-5-kg-cuval"
+          }
+        },
+        "DURU İRİ BULGUR 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-iri-bulgur-1-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-iri-bulgur-1-kg"
+          }
+        },
+        "DURU OSMANCIK PIRINC 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "67.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-osmancik-pirinc-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "59.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-osmancik-pilavlik-pirinc-5-kg"
+          }
+        },
+        "DURU PILAVLIK BULGUR 10 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "67.50 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-10-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PILAVLIK BULGUR 5 KG POŞET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-5-kg-pst"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU PILAVLIK PIRINC 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "64.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-pirinc-5-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "59.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-pirinc-5-kg"
+          }
+        },
+        "DURU. PILAVLIK BULGUR 25 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "125.00 ",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pilavlik-bulgur-25-kg"
+          },
+          "BEŞYOL": {
+            "FİYAT": "59.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/duru-pilavlik-pirinc-5-kg"
+          }
+        }
+      },
+      "EZEL": {
+        "EZEL PATLAYAN MISIR 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": {
+            "FİYAT": "7.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/ezel-patlayan-misir-1000-gr", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          }
+        }
+      },
+      "GÖKDERE": {
+        "GÖKDERE BALDO PIRINC 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "MİSMAR": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-baldo-pirinc-1000-gr", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" }
+        },
+        "GÖKDERE BALDO PIRINC 2.5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "37.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-baldo-pirinc-2-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE FASULYE 1000 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-fasulye-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE KIRIK PIRINC 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-kirik-pirinc-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE KIRMIZI MERCIMEK 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-kirmizi-mercimek-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE KIRMIZI MERCIMEK 2500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "33.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-kirmizi-mercimek-2500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE NOHUT 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-nohut-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE OSMANCIK PİRİNÇ 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-osmancik-pirinc-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE OSMANCIK PİRİNÇ 2500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-osmancik-pirinc-2-5-kg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE PATLAYAN MISIR 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-patlayan-misir-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE PİLAVLIK PİRİNÇ 1000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-pilavlik-pirinc-1000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "GÖKDERE PİLAVLIK PİRİNÇ 2500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/gokdere-pilavlik-pirinc-2500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "HASKÖY": {
+        "HASKÖY 1 KG KIRMIZI MERCİMEK": {
+          "NAR GROSS": {
+            "FİYAT": "11.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=60", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" , "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"},
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" }
+        },
+        "HASKÖY BALDO PİRİNÇ 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "28.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=6760"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASKÖY PİLAVLIK BULGUR 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3147"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "HASKÖY KIRMIZI MERCIMEK 2.5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/haskoy-kirmizi-mercimek-2-5-kg"
+          }
+        }
+      },
+      "İRİ DANEM": {
+        "İRİ DANEM 2 KG KIRMIZI MERCİMEK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/iri-danem-kirmizi-mercimek-2-kg", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          }
+        },
+        "İRİ DANEM 2 KG OSMANCIK PİRİNÇ": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/iri-danem-osmancik-pirinc-2-kg"
+          }
+        }
+      },
+      "ÖZÇİĞDEM": {
+        "ÖZÇİĞDEM PATLAYAN MISIR 1 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": {
+            "FİYAT": "7.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/ozcigdem-patlayan-misir-1-kg", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          }
+        }
+      },
+      "TARIM KREDİ": {
+        "TARIM KREDİ BALDO PİRİNÇ 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "35.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3159", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" }
+        },
+        "TARIM KREDİ KIRMIZI MERCIMEK 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "29.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3209"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TARIM KREDİ KIRMIZI MERCIMEK KG": {
+          "NAR GROSS": {
+            "FİYAT": "10.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3122"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TARIM KREDİ OSMANCIK PİRİNÇ 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "26.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3121"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TAÇMİN": {
+        "TAÇMİN KIRMIZI DAMAR PİRİNÇ KG": {
+          "NAR GROSS": {
+            "FİYAT": "8.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3194", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" }
+        },
+        "TAÇMİN OSMANCIK PİRİNÇ 2.5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "21.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3217"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAÇMİN OSMANCIK PİRİNÇ KG": {
+          "NAR GROSS": {
+            "FİYAT": "9.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3214"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAÇMİN PATLAYACAK MISIR 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=6783"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TORKU": {
+        "TORKU ÇATALHÖYÜK BAŞBAŞI BULGUR 1 KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3205", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" }
+        },
+        "TORKU ÇATALHÖYÜK KÖFTELİK BULGUR 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "27.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3202"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU ÇATALHÖYÜK PİLAVLIK BULGUR 1KG": {
+          "NAR GROSS": {
+            "FİYAT": "6.45 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3203"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.45 ",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-catalhoyuk-p-bulgur-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-pilavlik-bulgur-1000-gr"
+          }
+        },
+        "TORKU ÇATALHÖYÜK TORBA PİLAVLIK BULGUR 5 KG": {
+          "NAR GROSS": {
+            "FİYAT": "27.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3206"
+          },
+          "MİSMAR": {
+            "FİYAT": "25.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-catalhoyuk-p-bulgur-5-kg-cvl"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-pilavlik-bulgur-5000-gr"
+          }
+        },
+        "TORKU ÇATALHÖYÜK KÖFTELİK BULGUR 2.5KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "15.95 ",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-catalhoyuk-bulgur-2500-gr-koftelik"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-koftelik-bulgur-2500gr"
+          }
+        },
+        "TORKU ÇATALHÖYÜK PİLAVLIK BULGUR 2.5KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "TÜKENDİ",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-catalhoyuk-bulgur-2500-gr-pilavlik"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TORKU ÇATALHÖYÜK KÖFTELİK BULGUR 1KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "TÜKENDİ",
+            "LİNK": "https://www.mismarsanalmarket.com/torku-catalhoyuk-kof-bulgur-1000-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "5.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/torku-koftelik-bulgur-1000-gr"
+          }
+        }
+      },
+      "YAYLA": {
+        "IRI DANEM OSMANCIK PIRINC 2KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg" },
+          "MİSMAR": {
+            "FİYAT": "14.80 ",
+            "LİNK": "https://www.mismarsanalmarket.com/iri-danem-osmancik-pirinc-2kg", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" , "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"}
+        },
+        "YAYLA PİLAVLIK BULGUR 5KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "" },
+          "BEŞYOL": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/yayla-bulgur-pilavlik-5-kg"
+          }
+        },
+        "YAYLA KIRMIZI MERCIMEK 1KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "" },
+          "BEŞYOL": {
+            "FİYAT": "14.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/yayla-kirmizi-mercimek-1000-gr"
+          }
+        },
+        "YAYLA OSMANCIK PİRİNÇ 2KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "" },
+          "BEŞYOL": {
+            "FİYAT": "19.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/yayla-osmancik-pirinc-2000-gr"
+          }
+        },
+        "YAYLA PATLAYAN MISIR 1KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "" },
+          "BEŞYOL": {
+            "FİYAT": "9.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/yayla-patlayan-misir-1000-gr"
+          }
+        },
+        "YAYLA YERLİ PİLAVLIK PİRİNÇ 2KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "" },
+          "BEŞYOL": {
+            "FİYAT": "24.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/yayla-yerli-pilavlik-pirinc-2-kg"
+          }
+        }
+      },
+      "ZEKİ": {
+        "ZEKİ 2.5 KG BALDO PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "34.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3161", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" , "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"},
+          "BEŞYOL": {
+            "FİYAT": "34.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/zeki-baldo-pirinc-2-5-kg", "RESİM": "https://nargross.com/image/cache/data/10650-300x300h.jpg"
+          }
+        },
+        "ZEKİ 2.5 KG OSMANCIK PİRİNÇ": {
+          "NAR GROSS": {
+            "FİYAT": "26.95 ",
+            "LİNK": "http://nargross.com/index.php?route=product/product&path=59_77&product_id=3200"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "26.95 ",
+            "LİNK": "https://www.besyol.com.tr/urun/zeki-osmancik-pirinc-2-5-kg"
+          }
+        }
+      }
+    }
+  }
+}

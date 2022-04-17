@@ -1,0 +1,1432 @@
+{
+  "TEMEL GIDA": {
+    "SALÇA KONSERVE": {
+      "BURCU": {
+        "BURCU DOMATES SALÇASI 1500 GR CAM": {
+          "NAR GROSS": {
+            "FİYAT": "18.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3277"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.besyol.com.tr/urun/burcu-domates-salcasi-1500-gr"
+          }
+        },
+        "BURCU DOMATES SALÇASI 4500 GR TNK": {
+          "NAR GROSS": {
+            "FİYAT": "37.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3294"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "BURCU DOMATES SALÇA 830 GR TNK": {
+          "NAR GROSS": {
+            "FİYAT": "8.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3286"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/burcu-domates-salcasi-830-gr-tnk"
+          }
+        },
+        "BURCU GARNITUR 4000 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "27.50",
+            "LİNK": "https://www.mismarsanalmarket.com/burcu-garnitur-4000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "DARDANEL": {
+        "DARDANEL TON EKONOMİK 80 GR X 3": {
+          "NAR GROSS": {
+            "FİYAT": "18.90",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca/DARDANEL-TON-EKONOMIK-80-GR-X-3"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "OLCA": {
+        "OLCA 1550 GR ACI BİBER SALÇASI": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3291"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "34.95",
+            "LİNK": "https://www.besyol.com.tr/urun/olca-aci-biber-salcasi-1550-gr"
+          }
+        },
+        "OLCA 1550 GR TATLI BİBER SALÇASI": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3292"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OLCA 1650 GR DOMATES SALÇASI": {
+          "NAR GROSS": {
+            "FİYAT": "22.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1384"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "OLCA 3500 GR DOMATES SALÇASI": {
+          "NAR GROSS": {
+            "FİYAT": "43.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1407"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "SÜPER FRESH": {
+        "SÜPER FRESH BEZELYE 450 GR": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3285"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-bezelye-450-gr"
+          }
+        },
+        "SÜPER FRESH BEZELYE 830 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3287"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜPER FRESH MISIR KONSERVE 3'LÜ 220 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3289"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/superfresh-misir-3x220gr-konserve"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-misir-konserve-3x220-gr"
+          }
+        },
+        "SÜPER FRESH TON BALIK KLASİK 3X75 GR": {
+          "NAR GROSS": {
+            "FİYAT": "16.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=6636"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "SÜPER FRESH SÜPER TON 3X80 GR": {
+          "NAR GROSS": {
+            "FİYAT": "12.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=6635"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-ton-balik-3x80-gr"
+          }
+        },
+        "SÜPER FRESH BARBNYA PLAKI KNSRVE 400GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/s-fresh-barbnya-plaki-knsrve-400gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-barbunya-pilaki-400-gr"
+          }
+        },
+        "SÜPER FRESH SUPER TON BALIK 2X160GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "24.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-ton-balik-2x160gr"
+          }
+        },
+        "SÜPER FRESH GARNİTÜR 340 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-garnitur-340-gr"
+          }
+        },
+        "SÜPER FRESH KLASIK TON BALIK 2X160 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "32.90",
+            "LİNK": "https://www.besyol.com.tr/urun/superfresh-klasik-ton-balik-2x160-gr"
+          }
+        }
+      },
+      "TAMEK": {
+        "TAMEK BEZELYE 830 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=2514"
+          },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-bezelye-830gr-tnk"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-bezelye-830-gr"
+          }
+        },
+        "TAMEK SALÇA 830 GR": {
+          "NAR GROSS": {
+            "FİYAT": "9.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=6791"
+          },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-dom-salca-830-gr-tnk"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-salca-830-gr-tnk"
+          }
+        },
+        "TAMEK BEZELYE 4200 GR TNK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "31.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-bezelye-4200-gr-tnk"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAMEK BEZELYE CAM 720 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-bezelye-cam-720-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAMEK FASULYE PILAKI 400 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-fasulye-pilaki-400-ml"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAMEK KAHV.SOS FIND.CEV.300GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-kahv-sos-find-cev-300gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAMEK PATLICAN KIZARTMA 380 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tamek-patlican-kizartma-380-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAMEK BIBERCIK BIBER SALCASI 135 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.50",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-bibercik-biber-salcasi-135-gr"
+          }
+        },
+        "TAMEK DOMATES SALCASI 720 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-domates-salcasi-720-cc"
+          }
+        },
+        "TAMEK SALCA 4250 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "33.90",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-salca-4250-gr"
+          }
+        },
+        "TAMEK SALCACIK 135 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-salcacik-135-gr"
+          }
+        },
+        "TAMEK BARBUNYA PILAKI 190 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-barbunya-pilaki-190-gr"
+          }
+        },
+        "TAMEK BEZELYE 670 ML": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-bezelye-670-ml"
+          }
+        },
+        "TAMEK DILIMLI JALAPENO TURSU 330 CC.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-dilimli-jalapeno-tursu-330-cc"
+          }
+        },
+        "TAMEK FASULYE PILAKI 1\\5 190 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "3.99",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-fasulye-pilaki-1-5-190-gr"
+          }
+        },
+        "TAMEK GARNITUR 550GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-garnitur-535-gr"
+          }
+        },
+        "TAMEK HASLANMIS KURUFASULYE 800 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-haslanmis-kurufasulye-1-1-800gr"
+          }
+        },
+        "TAMEK HASLANMIS NOHUT": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-haslanmis-nohut-1-1"
+          }
+        },
+        "TAMEK KARISIK TURSU 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-karisik-tursu-680-gr"
+          }
+        },
+        "TAMEK KORNISON TURSU 350 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tamek-kornison-tursu-350-gr"
+          }
+        }
+      },
+      "TAT": {
+        "TAT BEZELYE 830 GR.TENEKE": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3278"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT DOMATES SALÇASI 830 GR": {
+          "NAR GROSS": {
+            "FİYAT": "10.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1625"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tat-domates-salcasi-830-gr"
+          }
+        },
+        "TAT GARNİTÜR 340 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3310"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT GARNİTÜR 550 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3280"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT SALÇA BİBER ACI 550 GR": {
+          "NAR GROSS": {
+            "FİYAT": "12.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3282"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT SALÇA BİBER TATLI 550 GR": {
+          "NAR GROSS": {
+            "FİYAT": "12.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3308"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT SALÇACIK 170 GR": {
+          "NAR GROSS": {
+            "FİYAT": "4.25",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1170"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT 1/1 HASLANMIS BARBUNYA KONS.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-1-1-haslanmis-barbunya-kons"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT 1/1 HASLANMIS KURU FASULYE KONS.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-1-1-haslanmis-kurufasulye-kons"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT 1/1 HASLANMIS MEKSİKA FASULYE": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.45",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-1-1-haslanmis-meksika-fasulyesi"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT 1/1 HASLANMIS NOHUT KONS.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-1-1-haslanmis-nohut-kons"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT ALMAN TIPI KORNS.TURSU 720 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-alman-tipi-korns-tursu-720-cc"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT BAMYA SULTANI 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-bamya-sultani-720-cc-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT BEZELYE 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-bezelye-720-cc-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT BEZELYE GARNITUR 580 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-bezelye-garnitur-580-cc-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT CUBUK TURSU 720 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-cubuk-tursu-720-cc"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT ENGINAR 660 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "33.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-enginar-660-gr-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT KIRMIZI PANCAR TURSUSU 720 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-kirmizi-pancar-tursusu-720-cc"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT MANTAR 370 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-mantar-370-cc"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TAT MISIR 330 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tat-misir-330-cc-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "TUKAŞ": {
+        "TUKAŞ BEZELYE 680 GR CAM": {
+          "NAR GROSS": {
+            "FİYAT": "7.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3297"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-bezelye-680-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.75",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-bezelye-680-gr"
+          }
+        },
+        "TUKAŞ BEZELYE 830 GR KONS": {
+          "NAR GROSS": {
+            "FİYAT": "6.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1630"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-bezelye-830-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-bezelye-830-gr"
+          }
+        },
+        "TUKAŞ GARNİTÜR 560 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3295"
+          },
+          "MİSMAR": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-garnitur-560-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-garnitur-580-cc"
+          }
+        },
+        "TUKAŞ HAŞ. FASULYE 800 GR": {
+          "NAR GROSS": {
+            "FİYAT": "7.25",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3281"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "6.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-haslanmis-fasulye-800-gr"
+          }
+        },
+        "TUKAŞ HAŞLANMIŞ NOHUT 830 GR": {
+          "NAR GROSS": {
+            "FİYAT": "5.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3288"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.50",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-haslanmis-nohut-800-gr-tnk"
+          }
+        },
+        "TUKAŞ KÖZLENMİŞ PATLICAN 650 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3309"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ MISIR KONS. 215 GR": {
+          "NAR GROSS": {
+            "FİYAT": "3.50",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3301"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ MISIR KONSANTRE 3X220 GR": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3300"
+          },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-konserve-misir-3x220-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.90",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-misir-konserve-eko-220grx3"
+          }
+        },
+        "TUKAŞ SALÇA BİBER 1650 GR. TATLI": {
+          "NAR GROSS": {
+            "FİYAT": "26.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3279"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "TUKAŞ SALÇA BİBER 700 GR. CAM TATLI": {
+          "NAR GROSS": {
+            "FİYAT": "11.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3298"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-tatli-biber-salcasi-700-gr"
+          }
+        },
+        "TUKAŞ SALÇA DOMATES 1650 GR. CAM": {
+          "NAR GROSS": {
+            "FİYAT": "22.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3296"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "22.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-domates-salcasi-1650-gr-cam"
+          }
+        },
+        "TUKAŞ SALÇA DOMATES 4350 GR": {
+          "NAR GROSS": {
+            "FİYAT": "36.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=159"
+          },
+          "MİSMAR": {
+            "FİYAT": "36.80",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-salca-4350-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "39.90",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-dom-sal-4350gr"
+          }
+        },
+        "TUKAŞ SALÇA DOMATES 700 GR CAM": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1391"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-domates-salcasi-cam-700-gr"
+          }
+        },
+        "TUKAŞ SALÇA DOMATES 830 GR TENEKE": {
+          "NAR GROSS": {
+            "FİYAT": "8.75",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=262"
+          },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/tukas-salca-830-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-domates-salcasi-830-gr-tnk"
+          }
+        },
+        "TUKAŞ SALÇA KARIŞIK 700 GR.": {
+          "NAR GROSS": {
+            "FİYAT": "11.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3283"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-domates-biber-salcasi-700-gr-cam"
+          }
+        },
+        "TUKAS ACI BIBER SALCASI %28 1650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-aci-biber-salcasi-28-1650-gr"
+          }
+        },
+        "TUKAS BIBER SALCASI 1650 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "32.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-biber-salcasi-1650-gr-cam"
+          }
+        },
+        "TUKAS BIBER SALCASI ACI 1650 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-biber-salcasi-aci-1650-gr-cam"
+          }
+        },
+        "TUKAS DOMATES-BIBER KARISIK SALCA 1650 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "28.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-domates-biber-karisik-salca-1650-gr-cam"
+          }
+        },
+        "TUKAS BARBUNYA PILAKE 400 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.50",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-barbunya-pilake-400-gr"
+          }
+        },
+        "TUKAS BEZELYE 5 KG": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-bezelye-5-kg"
+          }
+        },
+        "TUKAS KORNISON TURSU 1650GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/tukas-kornison-tursu-1650gr"
+          }
+        }
+      },
+      "ÖNCÜ": {
+        "ÖNCÜ SALÇA 1650 GR. BİBER ACI": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3304"
+          },
+          "MİSMAR": {
+            "FİYAT": "35.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-biber-salcasi-1650-gr-acili"
+          },
+          "BEŞYOL": {
+            "FİYAT": "35.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-biber-salcasi-aci-1500-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 1650 GR. BİBER TATLI": {
+          "NAR GROSS": {
+            "FİYAT": "34.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3303"
+          },
+          "MİSMAR": {
+            "FİYAT": "35.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-biber-salcasi-1650-gr-tatli"
+          },
+          "BEŞYOL": {
+            "FİYAT": "34.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-biber-salcasi-tatli-1650-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 1650 GR. DOMATES": {
+          "NAR GROSS": {
+            "FİYAT": "21.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=74"
+          },
+          "MİSMAR": {
+            "FİYAT": "20.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-salca-1650-gr-pet"
+          },
+          "BEŞYOL": {
+            "FİYAT": "23.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domates-salcasi-1650-gr-pet"
+          }
+        },
+        "ÖNCÜ SALÇA 3200 GR. BİBER ACI.": {
+          "NAR GROSS": {
+            "FİYAT": "69.90",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1405"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ÖNCÜ SALÇA 3200 GR. DOMATES": {
+          "NAR GROSS": {
+            "FİYAT": "42.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1404"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "ÖNCÜ SALÇA 4300 GR. DOMATES PET": {
+          "NAR GROSS": {
+            "FİYAT": "49.90",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1406"
+          },
+          "MİSMAR": {
+            "FİYAT": "45.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-4300-gr-dom-salcasi"
+          },
+          "BEŞYOL": {
+            "FİYAT": "49.90",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domates-salcasi-4300-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 700 GR KARIŞIK SALÇA": {
+          "NAR GROSS": {
+            "FİYAT": "13.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3290"
+          },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-salca-3-u-1-arada-700-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domates-biber-salcasi-karisik-700-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 700 GR. BİBER ACI CAM": {
+          "NAR GROSS": {
+            "FİYAT": "16.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3293"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-biber-salcasi-700-gr-aci-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-1-1-biber-salcasi-aci-cam-700-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 700 GR. BİBER TATLI CAM": {
+          "NAR GROSS": {
+            "FİYAT": "16.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3305"
+          },
+          "MİSMAR": {
+            "FİYAT": "16.45",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-biber-salcasi-700-gr-tatli-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "16.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-1-1-biber-salcasi-tatli-cam-700-gr"
+          }
+        },
+        "ÖNCÜ SALÇA 700 GR. DOMATES CAM": {
+          "NAR GROSS": {
+            "FİYAT": "11.45",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=3284"
+          },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domates-salcasi-700-gr-cam"
+          }
+        },
+        "ÖNCÜ SALÇA 830 GR. DOMATES TENEKE": {
+          "NAR GROSS": {
+            "FİYAT": "8.95",
+            "LİNK": "http://nargross.com/temel-gida/konserve-ve-salca?product_id=1393"
+          },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-salca-830-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domate-salca-830-gr"
+          }
+        },
+        "ÖNCÜ 4500 GR DOM.SALCASI TNK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "39.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-4500-gr-dom-salcasi-tnk"
+          },
+          "BEŞYOL": {
+            "FİYAT": "45,95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-domates-salcasi-tnk-4500-gr"
+          }
+        },
+        "ÖNCÜ BIBER SALCASI TATLI-ACI 4300 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "84.90",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-biber-salcasi-tatli-aci-4300-gr"
+          }
+        },
+        "ÖNCÜ DOM VE BIBER KARISIK SALCA 1600 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/oncu-dom-ve-biber-karisik-salca-1600-gr"
+          }
+        },
+        "ÖNCÜ KOZLENMIS BIBER 400 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/oncu-kozlenmis-biber-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "İPEK": {
+        "IPEK ACI BIBER SALCASI 1600 GR PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ipek-aci-biber-salcasi-1600-gr-pet"
+          }
+        },
+        "IPEK DOMATES SALCA 830 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.besyol.com.tr/urun/ipek-domates-salca-830-gr"
+          }
+        },
+        "IPEK DOMATES SALCA 1650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ipek-domates-salcasi-1650-gr"
+          }
+        },
+        "IPEK TATLI BIBER SALCASI 1600 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "29.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ipek-tatli-biber-salcasi-1600-gr-pet"
+          }
+        },
+        "IPEK TATLI BIBER SALCASI 1600 GR PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.besyol.com.tr/urun/ipek-tatli-biber-salcasi-1600gr"
+          }
+        }
+      },
+      "SEDEF": {
+        "SEDEF DOMATES SALCASI 800 GR TNK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/sedef-domates-salcasi-800-gr-tnk"
+          }
+        }
+      },
+      "SULTAN": {
+        "SULTAN SALCA 4200 GR TNK": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "39.90",
+            "LİNK": "https://www.besyol.com.tr/urun/sultan-salca-4200-gr-tnk"
+          }
+        }
+      },
+      "DURU": {
+        "DURU HASLANMIS BARBUNYA 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-barbunya-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS BEZELYE 450 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-bezelye-450-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS BÖRÜLCE 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.95",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-borulce-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS FASULYE 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-fasulye-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS KIRMIZI FASULYE 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "4.45",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-kirmizi-fas-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS NOHUT 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "3.75",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-haslanmis-nohut-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "DURU HASLANMIS MISIR 400 GR.": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "2.95",
+            "LİNK": "https://www.mismarsanalmarket.com/duru-pratik-haslanmis-misir-400-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        }
+      },
+      "EFOR": {
+        "EFOR JALAPENO ACI BIBER TURSUSU 1530 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "21.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-jalapeno-aci-biber-tursusu-1530-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR JALAPENO TURSUSU 325 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "5.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-jalapeno-tursusu-325-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR JALAPENO TURSUSU 720 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-jalapeno-tursusu-720-cc"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/efor-jalapone-biber-tursu-720-cc"
+          }
+        },
+        "EFOR SALATALIK TURSUSU 1600 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-salatalik-tursusu-1600-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SALATALIK TURSUSU 370 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-salatalik-tursusu-370-cc"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SALATALIK TURSUSU 5000 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "22.45",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-salatalik-tursusu-5000-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SALATALIK TURSUSU 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-salatalik-tursusu-680-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SIVRI ACI BIBER TURSUSU 1500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "28.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-sivri-aci-biber-tursusu-1500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SIVRI ACI BIBER TURSUSU 340 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-sivri-aci-biber-tursusu-340-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR SIVRI ACI BIBER TURSUSU 630 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-sivri-aci-biber-tursusu-630-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR TOMBUL ACI BIBER TURSUSU 325 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-tombul-aci-biber-tursusu-325-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR TOMBUL ACI BIBER TURSUSU 630 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-tombul-aci-biber-tursusu-630-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR TOMBUL ACI BIBERITE TURSUSU 1500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "28.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-tombul-biberiye-tursu-1500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR TURLU TURSU 1600 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "19.95",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-turlu-tursu-1600-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR TURLU TURSU 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.45",
+            "LİNK": "https://www.mismarsanalmarket.com/efor-turlu-tursu-1600-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "EFOR ACI BIBER TURSUSU 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/efor-aci-biber-tursusu-720-cc-cam"
+          }
+        },
+        "EFOR BIBERIYE TURSUSU 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.besyol.com.tr/urun/efor-biberiye-tursusu-720-cc-cam"
+          }
+        },
+        "EFOR KARIŞIK TURSU 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/efor-karisik-tursu-720-cc"
+          }
+        },
+        "EFOR SALATALIK TURSUSUS NO:2 720 CC CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.besyol.com.tr/urun/efor-salatalik-tursusus-no-2-720-cc-cam"
+          }
+        }
+      },
+      "ÇİÇEK": {
+        "CICEK ASMA BAG YAPRAGI 1500 CC": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "14.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cicek-asma-bag-yapragi"
+          }
+        },
+        "CICEK KARISIK SEBZE TURSUSU 1500 CC PET": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.besyol.com.tr/urun/cicek-karisik-sebze-tursusu-1500-cc-pet"
+          }
+        }
+      },
+      "MELİS": {
+        "MELIS BIBERIYE TURSUSU 325 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-biberiye-tursusu-325-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.25",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-biberiye-tursu-325-gr"
+          }
+        },
+        "MELIS BIBERIYE TURSUSU 620 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-biberiye-tursusu-620-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-biberiye-tursusu-620-gr"
+          }
+        },
+        "MELIS GUN.KURUTULMUS DOMETES 340 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-gun-kurutulmus-dometes-340-gr-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MELIS JALAPENO BIBER TURS.330 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "7.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-jalapeno-biber-turs-330-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.25",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-jalapeno-biber-tursu-330-gr"
+          }
+        },
+        "MELIS JALAPENO BIBER TURS.650 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-jalapeno-biber-turs-720-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-jalapone-biber-tursusu-650-gr"
+          }
+        },
+        "MELIS JALAPENO BIBER TURS.2500 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-jalepone-tursusu-2500-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MELIS KARISIK TURSU 2650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-karisik-tursu-2650-gr"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MELIS KARISIK TURSU 670 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-karisik-tursu-670-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-karisik-tursu-670-ml"
+          }
+        },
+        "MELIS KIRM.LAHANA TURSUSU 660 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.45",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-kirm-lahana-tursusu-660-gr-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MELIS KORNISON TURSUSU 350 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-kornison-tursusu-350-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "8.25",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-kornison-tursu-350-gr"
+          }
+        },
+        "MELIS KORNISON TURSUSU 680 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "9.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-kornison-tursusu-720-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-kornison-tursu-680-gr"
+          }
+        },
+        "MELIS KOZLENMS KIRMZ.BIBER 680 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-kozlenms-kirmz-biber-680-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "13.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-kozlenmis-biber-680gr"
+          }
+        },
+        "MELIS KOZLENMS PATLICAN 640 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "12.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-kozlenms-patlican-640-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "12.45",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-kozlenmis-patlican-640-gr"
+          }
+        },
+        "MELIS PANCAR TURSUSU 680 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.45",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-pancar-tursusu-680-gr-cam"
+          },
+          "BEŞYOL": { "FİYAT": "YOK", "LİNK": "-" }
+        },
+        "MELIS SALATALIK TURSUSU 2500 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "18.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-salatalik-tursusu-2500-gr"
+          },
+          "BEŞYOL": {
+            "FİYAT": "27.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-salatalik-tursu-2550-cam"
+          }
+        },
+        "MELIS SALATALIK TURSUSU 680 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "8.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-salatalik-tursusu-680-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-salatalik-tursu-680-gr"
+          }
+        },
+        "MELIS SARIMSAK TURSUSU 180 GR CAM": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": {
+            "FİYAT": "11.95",
+            "LİNK": "https://www.mismarsanalmarket.com/melis-sarimsak-tursusu-180-gr-cam"
+          },
+          "BEŞYOL": {
+            "FİYAT": "11.75",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-sarimsak-tursusu-180-gr"
+          }
+        },
+        "MELIS MEKSIKA FASULYE KONSERVESI 410 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "9.90",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-meksika-fasulye-konservesi-410-gr"
+          }
+        },
+        "MELIS SUS BIBER TURSUSU 640 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "10.95",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-sus-biber-tursusu-640-gr"
+          }
+        },
+        "MELIS YAKAN BIBER TURSU 330 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "8.25",
+            "LİNK": "https://www.besyol.com.tr/urun/melis-yakan-biber-tursu-330-gr"
+          }
+        }
+      },
+      "YALÇINKAYA": {
+        "YALCINKAYA ANTEP DOMATES SALCASI 1650 GR": {
+          "NAR GROSS": { "FİYAT": "YOK", "LİNK": "-" },
+          "MİSMAR": { "FİYAT": "YOK", "LİNK": "-" },
+          "BEŞYOL": {
+            "FİYAT": "24.95",
+            "LİNK": "https://www.besyol.com.tr/urun/yalcinkaya-domates-salcasi-1650-gr"
+          }
+        }
+      }
+    }
+  }
+}
